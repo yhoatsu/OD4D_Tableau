@@ -1,0 +1,2721 @@
+Year;Value;Country;Region;Income group
+2000;46,1;Afghanistan;South Asia;Low income
+2001;46,4;Afghanistan;South Asia;Low income
+2002;43,7;Afghanistan;South Asia;Low income
+2003;39,8;Afghanistan;South Asia;Low income
+2004;36,1;Afghanistan;South Asia;Low income
+2005;33,2;Afghanistan;South Asia;Low income
+2006;30,2;Afghanistan;South Asia;Low income
+2007;27,1;Afghanistan;South Asia;Low income
+2008;24,6;Afghanistan;South Asia;Low income
+2009;23;Afghanistan;South Asia;Low income
+2010;22,3;Afghanistan;South Asia;Low income
+2011;22,2;Afghanistan;South Asia;Low income
+2012;22,7;Afghanistan;South Asia;Low income
+2013;23,4;Afghanistan;South Asia;Low income
+2014;23,8;Afghanistan;South Asia;Low income
+2015;23;Afghanistan;South Asia;Low income
+2000;7,2;Albania;Europe & Central Asia;Upper middle income
+2001;7,8;Albania;Europe & Central Asia;Upper middle income
+2002;8,7;Albania;Europe & Central Asia;Upper middle income
+2003;9,7;Albania;Europe & Central Asia;Upper middle income
+2004;10,7;Albania;Europe & Central Asia;Upper middle income
+2005;11,1;Albania;Europe & Central Asia;Upper middle income
+2006;11;Albania;Europe & Central Asia;Upper middle income
+2007;10,5;Albania;Europe & Central Asia;Upper middle income
+2008;9,7;Albania;Europe & Central Asia;Upper middle income
+2009;8,7;Albania;Europe & Central Asia;Upper middle income
+2010;7,6;Albania;Europe & Central Asia;Upper middle income
+2011;6,7;Albania;Europe & Central Asia;Upper middle income
+2012;6;Albania;Europe & Central Asia;Upper middle income
+2013;5,5;Albania;Europe & Central Asia;Upper middle income
+2014;5,1;Albania;Europe & Central Asia;Upper middle income
+2015;4,9;Albania;Europe & Central Asia;Upper middle income
+2000;10,7;Algeria;Middle East & North Africa;Upper middle income
+2001;10,2;Algeria;Middle East & North Africa;Upper middle income
+2002;9,7;Algeria;Middle East & North Africa;Upper middle income
+2003;9,3;Algeria;Middle East & North Africa;Upper middle income
+2004;9;Algeria;Middle East & North Africa;Upper middle income
+2005;8,8;Algeria;Middle East & North Africa;Upper middle income
+2006;8,4;Algeria;Middle East & North Africa;Upper middle income
+2007;8;Algeria;Middle East & North Africa;Upper middle income
+2008;7,5;Algeria;Middle East & North Africa;Upper middle income
+2009;7;Algeria;Middle East & North Africa;Upper middle income
+2010;6,3;Algeria;Middle East & North Africa;Upper middle income
+2011;5,6;Algeria;Middle East & North Africa;Upper middle income
+2012;5;Algeria;Middle East & North Africa;Upper middle income
+2013;4,7;Algeria;Middle East & North Africa;Upper middle income
+2014;4,6;Algeria;Middle East & North Africa;Upper middle income
+2015;4,6;Algeria;Middle East & North Africa;Upper middle income
+2000;50;Angola;Sub-Saharan Africa;Lower middle income
+2001;46,7;Angola;Sub-Saharan Africa;Lower middle income
+2002;42,7;Angola;Sub-Saharan Africa;Lower middle income
+2003;38,6;Angola;Sub-Saharan Africa;Lower middle income
+2004;35;Angola;Sub-Saharan Africa;Lower middle income
+2005;32,1;Angola;Sub-Saharan Africa;Lower middle income
+2006;29,3;Angola;Sub-Saharan Africa;Lower middle income
+2007;26,5;Angola;Sub-Saharan Africa;Lower middle income
+2008;23,7;Angola;Sub-Saharan Africa;Lower middle income
+2009;21,3;Angola;Sub-Saharan Africa;Lower middle income
+2010;19,4;Angola;Sub-Saharan Africa;Lower middle income
+2011;17,9;Angola;Sub-Saharan Africa;Lower middle income
+2012;16,7;Angola;Sub-Saharan Africa;Lower middle income
+2013;15,3;Angola;Sub-Saharan Africa;Lower middle income
+2014;14,4;Angola;Sub-Saharan Africa;Lower middle income
+2015;14;Angola;Sub-Saharan Africa;Lower middle income
+2000;40;Antigua and Barbuda;Latin America & Caribbean;High income
+2001;42,1;Antigua and Barbuda;Latin America & Caribbean;High income
+2002;43,5;Antigua and Barbuda;Latin America & Caribbean;High income
+2003;41,9;Antigua and Barbuda;Latin America & Caribbean;High income
+2004;37,6;Antigua and Barbuda;Latin America & Caribbean;High income
+2005;31,5;Antigua and Barbuda;Latin America & Caribbean;High income
+2006;27,4;Antigua and Barbuda;Latin America & Caribbean;High income
+2007;25,4;Antigua and Barbuda;Latin America & Caribbean;High income
+2008;26,1;Antigua and Barbuda;Latin America & Caribbean;High income
+2009;27;Antigua and Barbuda;Latin America & Caribbean;High income
+2010;28,1;Antigua and Barbuda;Latin America & Caribbean;High income
+2011;27,8;Antigua and Barbuda;Latin America & Caribbean;High income
+2012;27,8;Antigua and Barbuda;Latin America & Caribbean;High income
+2013;27,1;Antigua and Barbuda;Latin America & Caribbean;High income
+2014;27,2;Antigua and Barbuda;Latin America & Caribbean;High income
+2015;26,7;Antigua and Barbuda;Latin America & Caribbean;High income
+2000;3,5;Argentina;Latin America & Caribbean;High income
+2001;4,1;Argentina;Latin America & Caribbean;High income
+2002;4,9;Argentina;Latin America & Caribbean;High income
+2003;5,3;Argentina;Latin America & Caribbean;High income
+2004;5,2;Argentina;Latin America & Caribbean;High income
+2005;4,7;Argentina;Latin America & Caribbean;High income
+2006;4,4;Argentina;Latin America & Caribbean;High income
+2007;4,2;Argentina;Latin America & Caribbean;High income
+2008;4,1;Argentina;Latin America & Caribbean;High income
+2009;4,1;Argentina;Latin America & Caribbean;High income
+2010;4;Argentina;Latin America & Caribbean;High income
+2011;3,9;Argentina;Latin America & Caribbean;High income
+2012;3,7;Argentina;Latin America & Caribbean;High income
+2013;3,6;Argentina;Latin America & Caribbean;High income
+2014;3,4;Argentina;Latin America & Caribbean;High income
+2015;3,6;Argentina;Latin America & Caribbean;High income
+2000;23,8;Armenia;Europe & Central Asia;Upper middle income
+2001;23,6;Armenia;Europe & Central Asia;Upper middle income
+2002;20,8;Armenia;Europe & Central Asia;Upper middle income
+2003;15,7;Armenia;Europe & Central Asia;Upper middle income
+2004;11,1;Armenia;Europe & Central Asia;Upper middle income
+2005;8;Armenia;Europe & Central Asia;Upper middle income
+2006;6,3;Armenia;Europe & Central Asia;Upper middle income
+2007;5,5;Armenia;Europe & Central Asia;Upper middle income
+2008;5,2;Armenia;Europe & Central Asia;Upper middle income
+2009;5,5;Armenia;Europe & Central Asia;Upper middle income
+2010;5,8;Armenia;Europe & Central Asia;Upper middle income
+2011;5,7;Armenia;Europe & Central Asia;Upper middle income
+2012;5,2;Armenia;Europe & Central Asia;Upper middle income
+2013;4,6;Armenia;Europe & Central Asia;Upper middle income
+2014;4,2;Armenia;Europe & Central Asia;Upper middle income
+2015;4,4;Armenia;Europe & Central Asia;Upper middle income
+2000;2,5;Australia;East Asia & Pacific;High income
+2001;2,5;Australia;East Asia & Pacific;High income
+2002;2,5;Australia;East Asia & Pacific;High income
+2003;2,5;Australia;East Asia & Pacific;High income
+2004;2,5;Australia;East Asia & Pacific;High income
+2005;2,5;Australia;East Asia & Pacific;High income
+2006;2,5;Australia;East Asia & Pacific;High income
+2007;2,5;Australia;East Asia & Pacific;High income
+2008;2,5;Australia;East Asia & Pacific;High income
+2009;2,5;Australia;East Asia & Pacific;High income
+2010;2,5;Australia;East Asia & Pacific;High income
+2011;2,5;Australia;East Asia & Pacific;High income
+2012;2,5;Australia;East Asia & Pacific;High income
+2013;2,5;Australia;East Asia & Pacific;High income
+2014;2,5;Australia;East Asia & Pacific;High income
+2015;2,5;Australia;East Asia & Pacific;High income
+2000;2,5;Austria;Europe & Central Asia;High income
+2001;2,5;Austria;Europe & Central Asia;High income
+2002;2,5;Austria;Europe & Central Asia;High income
+2003;2,5;Austria;Europe & Central Asia;High income
+2004;2,5;Austria;Europe & Central Asia;High income
+2005;2,5;Austria;Europe & Central Asia;High income
+2006;2,5;Austria;Europe & Central Asia;High income
+2007;2,5;Austria;Europe & Central Asia;High income
+2008;2,5;Austria;Europe & Central Asia;High income
+2009;2,5;Austria;Europe & Central Asia;High income
+2010;2,5;Austria;Europe & Central Asia;High income
+2011;2,5;Austria;Europe & Central Asia;High income
+2012;2,5;Austria;Europe & Central Asia;High income
+2013;2,5;Austria;Europe & Central Asia;High income
+2014;2,5;Austria;Europe & Central Asia;High income
+2015;2,5;Austria;Europe & Central Asia;High income
+2000;23,2;Azerbaijan;Europe & Central Asia;Upper middle income
+2001;18,8;Azerbaijan;Europe & Central Asia;Upper middle income
+2002;15;Azerbaijan;Europe & Central Asia;Upper middle income
+2003;11,6;Azerbaijan;Europe & Central Asia;Upper middle income
+2004;8,4;Azerbaijan;Europe & Central Asia;Upper middle income
+2005;5,7;Azerbaijan;Europe & Central Asia;Upper middle income
+2006;3,8;Azerbaijan;Europe & Central Asia;Upper middle income
+2007;2,9;Azerbaijan;Europe & Central Asia;Upper middle income
+2008;2,6;Azerbaijan;Europe & Central Asia;Upper middle income
+2009;2,6;Azerbaijan;Europe & Central Asia;Upper middle income
+2010;2,5;Azerbaijan;Europe & Central Asia;Upper middle income
+2011;2,5;Azerbaijan;Europe & Central Asia;Upper middle income
+2012;2,5;Azerbaijan;Europe & Central Asia;Upper middle income
+2013;2,5;Azerbaijan;Europe & Central Asia;Upper middle income
+2014;2,5;Azerbaijan;Europe & Central Asia;Upper middle income
+2015;2,5;Azerbaijan;Europe & Central Asia;Upper middle income
+2000;6,9;Bahamas, The;Latin America & Caribbean;High income
+2001;6,8;Bahamas, The;Latin America & Caribbean;High income
+2002;7,5;Bahamas, The;Latin America & Caribbean;High income
+2003;8,3;Bahamas, The;Latin America & Caribbean;High income
+2004;9,2;Bahamas, The;Latin America & Caribbean;High income
+2005;10;Bahamas, The;Latin America & Caribbean;High income
+2006;10,8;Bahamas, The;Latin America & Caribbean;High income
+2007;11,4;Bahamas, The;Latin America & Caribbean;High income
+2008;11,9;Bahamas, The;Latin America & Caribbean;High income
+2009;12,2;Bahamas, The;Latin America & Caribbean;High income
+2010;12,3;Bahamas, The;Latin America & Caribbean;High income
+2011;11,9;Bahamas, The;Latin America & Caribbean;High income
+2012;11,2;Bahamas, The;Latin America & Caribbean;High income
+2013;10,7;Bahamas, The;Latin America & Caribbean;High income
+2014;10,3;Bahamas, The;Latin America & Caribbean;High income
+2015;10;Bahamas, The;Latin America & Caribbean;High income
+2000;20,8;Bangladesh;South Asia;Lower middle income
+2001;18,7;Bangladesh;South Asia;Lower middle income
+2002;18,2;Bangladesh;South Asia;Lower middle income
+2003;17,5;Bangladesh;South Asia;Lower middle income
+2004;17,1;Bangladesh;South Asia;Lower middle income
+2005;16,6;Bangladesh;South Asia;Lower middle income
+2006;16,3;Bangladesh;South Asia;Lower middle income
+2007;16,3;Bangladesh;South Asia;Lower middle income
+2008;16,4;Bangladesh;South Asia;Lower middle income
+2009;16,6;Bangladesh;South Asia;Lower middle income
+2010;16,9;Bangladesh;South Asia;Lower middle income
+2011;16,9;Bangladesh;South Asia;Lower middle income
+2012;16,8;Bangladesh;South Asia;Lower middle income
+2013;16,4;Bangladesh;South Asia;Lower middle income
+2014;16;Bangladesh;South Asia;Lower middle income
+2015;15,1;Bangladesh;South Asia;Lower middle income
+2000;5,4;Barbados;Latin America & Caribbean;High income
+2001;5,8;Barbados;Latin America & Caribbean;High income
+2002;6,3;Barbados;Latin America & Caribbean;High income
+2003;6,3;Barbados;Latin America & Caribbean;High income
+2004;6,3;Barbados;Latin America & Caribbean;High income
+2005;5,9;Barbados;Latin America & Caribbean;High income
+2006;5,6;Barbados;Latin America & Caribbean;High income
+2007;5,3;Barbados;Latin America & Caribbean;High income
+2008;5,1;Barbados;Latin America & Caribbean;High income
+2009;5;Barbados;Latin America & Caribbean;High income
+2010;5;Barbados;Latin America & Caribbean;High income
+2011;4,9;Barbados;Latin America & Caribbean;High income
+2012;4,8;Barbados;Latin America & Caribbean;High income
+2013;4,6;Barbados;Latin America & Caribbean;High income
+2014;4,5;Barbados;Latin America & Caribbean;High income
+2015;4,4;Barbados;Latin America & Caribbean;High income
+2000;2,5;Belarus;Europe & Central Asia;Upper middle income
+2001;2,5;Belarus;Europe & Central Asia;Upper middle income
+2002;3,2;Belarus;Europe & Central Asia;Upper middle income
+2003;3,7;Belarus;Europe & Central Asia;Upper middle income
+2004;3,6;Belarus;Europe & Central Asia;Upper middle income
+2005;3;Belarus;Europe & Central Asia;Upper middle income
+2006;2,5;Belarus;Europe & Central Asia;Upper middle income
+2007;2,5;Belarus;Europe & Central Asia;Upper middle income
+2008;2,5;Belarus;Europe & Central Asia;Upper middle income
+2009;2,5;Belarus;Europe & Central Asia;Upper middle income
+2010;2,5;Belarus;Europe & Central Asia;Upper middle income
+2011;2,5;Belarus;Europe & Central Asia;Upper middle income
+2012;2,5;Belarus;Europe & Central Asia;Upper middle income
+2013;2,5;Belarus;Europe & Central Asia;Upper middle income
+2014;2,5;Belarus;Europe & Central Asia;Upper middle income
+2015;2,5;Belarus;Europe & Central Asia;Upper middle income
+2000;2,5;Belgium;Europe & Central Asia;High income
+2001;2,5;Belgium;Europe & Central Asia;High income
+2002;2,5;Belgium;Europe & Central Asia;High income
+2003;2,5;Belgium;Europe & Central Asia;High income
+2004;2,5;Belgium;Europe & Central Asia;High income
+2005;2,5;Belgium;Europe & Central Asia;High income
+2006;2,5;Belgium;Europe & Central Asia;High income
+2007;2,5;Belgium;Europe & Central Asia;High income
+2008;2,5;Belgium;Europe & Central Asia;High income
+2009;2,5;Belgium;Europe & Central Asia;High income
+2010;2,5;Belgium;Europe & Central Asia;High income
+2011;2,5;Belgium;Europe & Central Asia;High income
+2012;2,5;Belgium;Europe & Central Asia;High income
+2013;2,5;Belgium;Europe & Central Asia;High income
+2014;2,5;Belgium;Europe & Central Asia;High income
+2015;2,5;Belgium;Europe & Central Asia;High income
+2000;5,8;Belize;Latin America & Caribbean;Upper middle income
+2001;5;Belize;Latin America & Caribbean;Upper middle income
+2002;4,7;Belize;Latin America & Caribbean;Upper middle income
+2003;4,5;Belize;Latin America & Caribbean;Upper middle income
+2004;4,6;Belize;Latin America & Caribbean;Upper middle income
+2005;4,6;Belize;Latin America & Caribbean;Upper middle income
+2006;4,9;Belize;Latin America & Caribbean;Upper middle income
+2007;5,3;Belize;Latin America & Caribbean;Upper middle income
+2008;5,5;Belize;Latin America & Caribbean;Upper middle income
+2009;5,6;Belize;Latin America & Caribbean;Upper middle income
+2010;5,6;Belize;Latin America & Caribbean;Upper middle income
+2011;5,8;Belize;Latin America & Caribbean;Upper middle income
+2012;6,2;Belize;Latin America & Caribbean;Upper middle income
+2013;6,3;Belize;Latin America & Caribbean;Upper middle income
+2014;6,3;Belize;Latin America & Caribbean;Upper middle income
+2015;6,2;Belize;Latin America & Caribbean;Upper middle income
+2000;22,6;Benin;Sub-Saharan Africa;Low income
+2001;20,5;Benin;Sub-Saharan Africa;Low income
+2002;18,6;Benin;Sub-Saharan Africa;Low income
+2003;17,3;Benin;Sub-Saharan Africa;Low income
+2004;16,3;Benin;Sub-Saharan Africa;Low income
+2005;15,4;Benin;Sub-Saharan Africa;Low income
+2006;14,4;Benin;Sub-Saharan Africa;Low income
+2007;13,4;Benin;Sub-Saharan Africa;Low income
+2008;12,8;Benin;Sub-Saharan Africa;Low income
+2009;12,4;Benin;Sub-Saharan Africa;Low income
+2010;12,1;Benin;Sub-Saharan Africa;Low income
+2011;11,7;Benin;Sub-Saharan Africa;Low income
+2012;11,3;Benin;Sub-Saharan Africa;Low income
+2013;10,8;Benin;Sub-Saharan Africa;Low income
+2014;10;Benin;Sub-Saharan Africa;Low income
+2015;10,3;Benin;Sub-Saharan Africa;Low income
+2000;12,3;Bermuda;North America;High income
+2001;13,7;Bermuda;North America;High income
+2002;15,3;Bermuda;North America;High income
+2003;17;Bermuda;North America;High income
+2004;17,5;Bermuda;North America;High income
+2005;16,6;Bermuda;North America;High income
+2006;14,8;Bermuda;North America;High income
+2007;13;Bermuda;North America;High income
+2008;11,7;Bermuda;North America;High income
+2009;11,3;Bermuda;North America;High income
+2010;11,7;Bermuda;North America;High income
+2011;12,2;Bermuda;North America;High income
+2012;12,5;Bermuda;North America;High income
+2013;12,6;Bermuda;North America;High income
+2014;12,5;Bermuda;North America;High income
+2015;12,8;Bermuda;North America;High income
+2000;33,4;Bolivia;Latin America & Caribbean;Lower middle income
+2001;31,6;Bolivia;Latin America & Caribbean;Lower middle income
+2002;31,2;Bolivia;Latin America & Caribbean;Lower middle income
+2003;31,4;Bolivia;Latin America & Caribbean;Lower middle income
+2004;31,4;Bolivia;Latin America & Caribbean;Lower middle income
+2005;30,3;Bolivia;Latin America & Caribbean;Lower middle income
+2006;28,7;Bolivia;Latin America & Caribbean;Lower middle income
+2007;28;Bolivia;Latin America & Caribbean;Lower middle income
+2008;28,1;Bolivia;Latin America & Caribbean;Lower middle income
+2009;28;Bolivia;Latin America & Caribbean;Lower middle income
+2010;26,5;Bolivia;Latin America & Caribbean;Lower middle income
+2011;24,6;Bolivia;Latin America & Caribbean;Lower middle income
+2012;23,1;Bolivia;Latin America & Caribbean;Lower middle income
+2013;21,9;Bolivia;Latin America & Caribbean;Lower middle income
+2014;20,8;Bolivia;Latin America & Caribbean;Lower middle income
+2015;20,2;Bolivia;Latin America & Caribbean;Lower middle income
+2000;4,7;Bosnia and Herzegovina;Europe & Central Asia;Upper middle income
+2001;5;Bosnia and Herzegovina;Europe & Central Asia;Upper middle income
+2002;4,8;Bosnia and Herzegovina;Europe & Central Asia;Upper middle income
+2003;4,4;Bosnia and Herzegovina;Europe & Central Asia;Upper middle income
+2004;3,7;Bosnia and Herzegovina;Europe & Central Asia;Upper middle income
+2005;3,4;Bosnia and Herzegovina;Europe & Central Asia;Upper middle income
+2006;3,1;Bosnia and Herzegovina;Europe & Central Asia;Upper middle income
+2007;3;Bosnia and Herzegovina;Europe & Central Asia;Upper middle income
+2008;2,8;Bosnia and Herzegovina;Europe & Central Asia;Upper middle income
+2009;2,6;Bosnia and Herzegovina;Europe & Central Asia;Upper middle income
+2010;2,5;Bosnia and Herzegovina;Europe & Central Asia;Upper middle income
+2011;2,5;Bosnia and Herzegovina;Europe & Central Asia;Upper middle income
+2012;2,5;Bosnia and Herzegovina;Europe & Central Asia;Upper middle income
+2013;2,5;Bosnia and Herzegovina;Europe & Central Asia;Upper middle income
+2014;2,5;Bosnia and Herzegovina;Europe & Central Asia;Upper middle income
+2015;2,5;Bosnia and Herzegovina;Europe & Central Asia;Upper middle income
+2000;35,6;Botswana;Sub-Saharan Africa;Upper middle income
+2001;35;Botswana;Sub-Saharan Africa;Upper middle income
+2002;34,7;Botswana;Sub-Saharan Africa;Upper middle income
+2003;33,5;Botswana;Sub-Saharan Africa;Upper middle income
+2004;32,5;Botswana;Sub-Saharan Africa;Upper middle income
+2005;32;Botswana;Sub-Saharan Africa;Upper middle income
+2006;32,3;Botswana;Sub-Saharan Africa;Upper middle income
+2007;32,5;Botswana;Sub-Saharan Africa;Upper middle income
+2008;31,9;Botswana;Sub-Saharan Africa;Upper middle income
+2009;30,5;Botswana;Sub-Saharan Africa;Upper middle income
+2010;28,6;Botswana;Sub-Saharan Africa;Upper middle income
+2011;26,6;Botswana;Sub-Saharan Africa;Upper middle income
+2012;25,1;Botswana;Sub-Saharan Africa;Upper middle income
+2013;24,6;Botswana;Sub-Saharan Africa;Upper middle income
+2014;24,6;Botswana;Sub-Saharan Africa;Upper middle income
+2015;26;Botswana;Sub-Saharan Africa;Upper middle income
+2000;12;Brazil;Latin America & Caribbean;Upper middle income
+2001;10,6;Brazil;Latin America & Caribbean;Upper middle income
+2002;8,7;Brazil;Latin America & Caribbean;Upper middle income
+2003;6,9;Brazil;Latin America & Caribbean;Upper middle income
+2004;5,5;Brazil;Latin America & Caribbean;Upper middle income
+2005;4,5;Brazil;Latin America & Caribbean;Upper middle income
+2006;3,8;Brazil;Latin America & Caribbean;Upper middle income
+2007;3,1;Brazil;Latin America & Caribbean;Upper middle income
+2008;2,6;Brazil;Latin America & Caribbean;Upper middle income
+2009;2,5;Brazil;Latin America & Caribbean;Upper middle income
+2010;2,5;Brazil;Latin America & Caribbean;Upper middle income
+2011;2,5;Brazil;Latin America & Caribbean;Upper middle income
+2012;2,5;Brazil;Latin America & Caribbean;Upper middle income
+2013;2,5;Brazil;Latin America & Caribbean;Upper middle income
+2014;2,5;Brazil;Latin America & Caribbean;Upper middle income
+2015;2,5;Brazil;Latin America & Caribbean;Upper middle income
+2000;3,1;Brunei Darussalam;East Asia & Pacific;High income
+2001;2,8;Brunei Darussalam;East Asia & Pacific;High income
+2002;2,5;Brunei Darussalam;East Asia & Pacific;High income
+2003;2,5;Brunei Darussalam;East Asia & Pacific;High income
+2004;2,5;Brunei Darussalam;East Asia & Pacific;High income
+2005;2,5;Brunei Darussalam;East Asia & Pacific;High income
+2006;2,5;Brunei Darussalam;East Asia & Pacific;High income
+2007;2,7;Brunei Darussalam;East Asia & Pacific;High income
+2008;3;Brunei Darussalam;East Asia & Pacific;High income
+2009;3,2;Brunei Darussalam;East Asia & Pacific;High income
+2010;3,2;Brunei Darussalam;East Asia & Pacific;High income
+2011;3;Brunei Darussalam;East Asia & Pacific;High income
+2012;2,8;Brunei Darussalam;East Asia & Pacific;High income
+2013;2,6;Brunei Darussalam;East Asia & Pacific;High income
+2014;2,5;Brunei Darussalam;East Asia & Pacific;High income
+2015;2,5;Brunei Darussalam;East Asia & Pacific;High income
+2000;4,8;Bulgaria;Europe & Central Asia;Upper middle income
+2001;5,1;Bulgaria;Europe & Central Asia;Upper middle income
+2002;5,6;Bulgaria;Europe & Central Asia;Upper middle income
+2003;6;Bulgaria;Europe & Central Asia;Upper middle income
+2004;6,3;Bulgaria;Europe & Central Asia;Upper middle income
+2005;6,5;Bulgaria;Europe & Central Asia;Upper middle income
+2006;6,4;Bulgaria;Europe & Central Asia;Upper middle income
+2007;6,2;Bulgaria;Europe & Central Asia;Upper middle income
+2008;5,8;Bulgaria;Europe & Central Asia;Upper middle income
+2009;5,7;Bulgaria;Europe & Central Asia;Upper middle income
+2010;5,6;Bulgaria;Europe & Central Asia;Upper middle income
+2011;5,4;Bulgaria;Europe & Central Asia;Upper middle income
+2012;5;Bulgaria;Europe & Central Asia;Upper middle income
+2013;4,4;Bulgaria;Europe & Central Asia;Upper middle income
+2014;3,8;Bulgaria;Europe & Central Asia;Upper middle income
+2015;3,4;Bulgaria;Europe & Central Asia;Upper middle income
+2000;25,4;Burkina Faso;Sub-Saharan Africa;Low income
+2001;25,6;Burkina Faso;Sub-Saharan Africa;Low income
+2002;25,8;Burkina Faso;Sub-Saharan Africa;Low income
+2003;25,6;Burkina Faso;Sub-Saharan Africa;Low income
+2004;25,3;Burkina Faso;Sub-Saharan Africa;Low income
+2005;24,9;Burkina Faso;Sub-Saharan Africa;Low income
+2006;24,2;Burkina Faso;Sub-Saharan Africa;Low income
+2007;23,5;Burkina Faso;Sub-Saharan Africa;Low income
+2008;22,6;Burkina Faso;Sub-Saharan Africa;Low income
+2009;21,9;Burkina Faso;Sub-Saharan Africa;Low income
+2010;21,2;Burkina Faso;Sub-Saharan Africa;Low income
+2011;20,7;Burkina Faso;Sub-Saharan Africa;Low income
+2012;20,2;Burkina Faso;Sub-Saharan Africa;Low income
+2013;19,9;Burkina Faso;Sub-Saharan Africa;Low income
+2014;19,1;Burkina Faso;Sub-Saharan Africa;Low income
+2015;20,2;Burkina Faso;Sub-Saharan Africa;Low income
+2000;17,8;Cabo Verde;Sub-Saharan Africa;Lower middle income
+2001;17,9;Cabo Verde;Sub-Saharan Africa;Lower middle income
+2002;17,6;Cabo Verde;Sub-Saharan Africa;Lower middle income
+2003;16,6;Cabo Verde;Sub-Saharan Africa;Lower middle income
+2004;15,2;Cabo Verde;Sub-Saharan Africa;Lower middle income
+2005;14,4;Cabo Verde;Sub-Saharan Africa;Lower middle income
+2006;14,3;Cabo Verde;Sub-Saharan Africa;Lower middle income
+2007;14,5;Cabo Verde;Sub-Saharan Africa;Lower middle income
+2008;15;Cabo Verde;Sub-Saharan Africa;Lower middle income
+2009;15,5;Cabo Verde;Sub-Saharan Africa;Lower middle income
+2010;15,8;Cabo Verde;Sub-Saharan Africa;Lower middle income
+2011;15,5;Cabo Verde;Sub-Saharan Africa;Lower middle income
+2012;15,1;Cabo Verde;Sub-Saharan Africa;Lower middle income
+2013;14,6;Cabo Verde;Sub-Saharan Africa;Lower middle income
+2014;14,1;Cabo Verde;Sub-Saharan Africa;Lower middle income
+2015;13,7;Cabo Verde;Sub-Saharan Africa;Lower middle income
+2000;29,2;Cambodia;East Asia & Pacific;Lower middle income
+2001;25,9;Cambodia;East Asia & Pacific;Lower middle income
+2002;23,3;Cambodia;East Asia & Pacific;Lower middle income
+2003;21,8;Cambodia;East Asia & Pacific;Lower middle income
+2004;20,8;Cambodia;East Asia & Pacific;Lower middle income
+2005;20;Cambodia;East Asia & Pacific;Lower middle income
+2006;19,2;Cambodia;East Asia & Pacific;Lower middle income
+2007;18,8;Cambodia;East Asia & Pacific;Lower middle income
+2008;18,7;Cambodia;East Asia & Pacific;Lower middle income
+2009;18,8;Cambodia;East Asia & Pacific;Lower middle income
+2010;18,8;Cambodia;East Asia & Pacific;Lower middle income
+2011;18,6;Cambodia;East Asia & Pacific;Lower middle income
+2012;18;Cambodia;East Asia & Pacific;Lower middle income
+2013;17,1;Cambodia;East Asia & Pacific;Lower middle income
+2014;16,1;Cambodia;East Asia & Pacific;Lower middle income
+2015;15,3;Cambodia;East Asia & Pacific;Lower middle income
+2000;30,6;Cameroon;Sub-Saharan Africa;Lower middle income
+2001;28,3;Cameroon;Sub-Saharan Africa;Lower middle income
+2002;26,3;Cameroon;Sub-Saharan Africa;Lower middle income
+2003;24,2;Cameroon;Sub-Saharan Africa;Lower middle income
+2004;22,3;Cameroon;Sub-Saharan Africa;Lower middle income
+2005;20,2;Cameroon;Sub-Saharan Africa;Lower middle income
+2006;18,2;Cameroon;Sub-Saharan Africa;Lower middle income
+2007;16,3;Cameroon;Sub-Saharan Africa;Lower middle income
+2008;14,5;Cameroon;Sub-Saharan Africa;Lower middle income
+2009;13;Cameroon;Sub-Saharan Africa;Lower middle income
+2010;11,6;Cameroon;Sub-Saharan Africa;Lower middle income
+2011;10,2;Cameroon;Sub-Saharan Africa;Lower middle income
+2012;9,1;Cameroon;Sub-Saharan Africa;Lower middle income
+2013;8,3;Cameroon;Sub-Saharan Africa;Lower middle income
+2014;7,9;Cameroon;Sub-Saharan Africa;Lower middle income
+2015;7,9;Cameroon;Sub-Saharan Africa;Lower middle income
+2000;2,5;Canada;North America;High income
+2001;2,5;Canada;North America;High income
+2002;2,5;Canada;North America;High income
+2003;2,5;Canada;North America;High income
+2004;2,5;Canada;North America;High income
+2005;2,5;Canada;North America;High income
+2006;2,5;Canada;North America;High income
+2007;2,5;Canada;North America;High income
+2008;2,5;Canada;North America;High income
+2009;2,5;Canada;North America;High income
+2010;2,5;Canada;North America;High income
+2011;2,5;Canada;North America;High income
+2012;2,5;Canada;North America;High income
+2013;2,5;Canada;North America;High income
+2014;2,5;Canada;North America;High income
+2015;2,5;Canada;North America;High income
+2000;42,6;Central African Republic;Sub-Saharan Africa;Low income
+2001;42;Central African Republic;Sub-Saharan Africa;Low income
+2002;41,6;Central African Republic;Sub-Saharan Africa;Low income
+2003;41,6;Central African Republic;Sub-Saharan Africa;Low income
+2004;41,1;Central African Republic;Sub-Saharan Africa;Low income
+2005;39,9;Central African Republic;Sub-Saharan Africa;Low income
+2006;38,3;Central African Republic;Sub-Saharan Africa;Low income
+2007;36,4;Central African Republic;Sub-Saharan Africa;Low income
+2008;34,7;Central African Republic;Sub-Saharan Africa;Low income
+2009;33,6;Central African Republic;Sub-Saharan Africa;Low income
+2010;33,3;Central African Republic;Sub-Saharan Africa;Low income
+2011;35,6;Central African Republic;Sub-Saharan Africa;Low income
+2012;40,9;Central African Republic;Sub-Saharan Africa;Low income
+2013;48,6;Central African Republic;Sub-Saharan Africa;Low income
+2014;55,1;Central African Republic;Sub-Saharan Africa;Low income
+2015;58,6;Central African Republic;Sub-Saharan Africa;Low income
+2000;40,1;Chad;Sub-Saharan Africa;Low income
+2001;39,8;Chad;Sub-Saharan Africa;Low income
+2002;39,7;Chad;Sub-Saharan Africa;Low income
+2003;39,1;Chad;Sub-Saharan Africa;Low income
+2004;39,1;Chad;Sub-Saharan Africa;Low income
+2005;39,2;Chad;Sub-Saharan Africa;Low income
+2006;39,7;Chad;Sub-Saharan Africa;Low income
+2007;40,3;Chad;Sub-Saharan Africa;Low income
+2008;40,7;Chad;Sub-Saharan Africa;Low income
+2009;40,7;Chad;Sub-Saharan Africa;Low income
+2010;39,9;Chad;Sub-Saharan Africa;Low income
+2011;38,9;Chad;Sub-Saharan Africa;Low income
+2012;37,6;Chad;Sub-Saharan Africa;Low income
+2013;36,9;Chad;Sub-Saharan Africa;Low income
+2014;35,3;Chad;Sub-Saharan Africa;Low income
+2015;32,5;Chad;Sub-Saharan Africa;Low income
+2000;4,7;Chile;Latin America & Caribbean;High income
+2001;4,4;Chile;Latin America & Caribbean;High income
+2002;4,2;Chile;Latin America & Caribbean;High income
+2003;4,1;Chile;Latin America & Caribbean;High income
+2004;4;Chile;Latin America & Caribbean;High income
+2005;4;Chile;Latin America & Caribbean;High income
+2006;3,9;Chile;Latin America & Caribbean;High income
+2007;4;Chile;Latin America & Caribbean;High income
+2008;4,1;Chile;Latin America & Caribbean;High income
+2009;4,3;Chile;Latin America & Caribbean;High income
+2010;4,2;Chile;Latin America & Caribbean;High income
+2011;4,1;Chile;Latin America & Caribbean;High income
+2012;3,9;Chile;Latin America & Caribbean;High income
+2013;3,8;Chile;Latin America & Caribbean;High income
+2014;3,8;Chile;Latin America & Caribbean;High income
+2015;3,7;Chile;Latin America & Caribbean;High income
+2000;15,9;China;East Asia & Pacific;Upper middle income
+2001;15,8;China;East Asia & Pacific;Upper middle income
+2002;15,8;China;East Asia & Pacific;Upper middle income
+2003;15,7;China;East Asia & Pacific;Upper middle income
+2004;15,6;China;East Asia & Pacific;Upper middle income
+2005;15,3;China;East Asia & Pacific;Upper middle income
+2006;14,9;China;East Asia & Pacific;Upper middle income
+2007;14,2;China;East Asia & Pacific;Upper middle income
+2008;13,5;China;East Asia & Pacific;Upper middle income
+2009;12,7;China;East Asia & Pacific;Upper middle income
+2010;11,9;China;East Asia & Pacific;Upper middle income
+2011;11,3;China;East Asia & Pacific;Upper middle income
+2012;10,8;China;East Asia & Pacific;Upper middle income
+2013;10,3;China;East Asia & Pacific;Upper middle income
+2014;9,9;China;East Asia & Pacific;Upper middle income
+2015;9,6;China;East Asia & Pacific;Upper middle income
+2000;9,7;Colombia;Latin America & Caribbean;Upper middle income
+2001;9,4;Colombia;Latin America & Caribbean;Upper middle income
+2002;9,2;Colombia;Latin America & Caribbean;Upper middle income
+2003;9,2;Colombia;Latin America & Caribbean;Upper middle income
+2004;9,3;Colombia;Latin America & Caribbean;Upper middle income
+2005;9,7;Colombia;Latin America & Caribbean;Upper middle income
+2006;9,6;Colombia;Latin America & Caribbean;Upper middle income
+2007;9,3;Colombia;Latin America & Caribbean;Upper middle income
+2008;9,5;Colombia;Latin America & Caribbean;Upper middle income
+2009;10,4;Colombia;Latin America & Caribbean;Upper middle income
+2010;11,1;Colombia;Latin America & Caribbean;Upper middle income
+2011;10,9;Colombia;Latin America & Caribbean;Upper middle income
+2012;10;Colombia;Latin America & Caribbean;Upper middle income
+2013;8,8;Colombia;Latin America & Caribbean;Upper middle income
+2014;7,7;Colombia;Latin America & Caribbean;Upper middle income
+2015;7,1;Colombia;Latin America & Caribbean;Upper middle income
+2000;32,5;Congo, Rep.;Sub-Saharan Africa;Lower middle income
+2001;29,6;Congo, Rep.;Sub-Saharan Africa;Lower middle income
+2002;27,9;Congo, Rep.;Sub-Saharan Africa;Lower middle income
+2003;28,8;Congo, Rep.;Sub-Saharan Africa;Lower middle income
+2004;30,7;Congo, Rep.;Sub-Saharan Africa;Lower middle income
+2005;33,4;Congo, Rep.;Sub-Saharan Africa;Lower middle income
+2006;34;Congo, Rep.;Sub-Saharan Africa;Lower middle income
+2007;34;Congo, Rep.;Sub-Saharan Africa;Lower middle income
+2008;33;Congo, Rep.;Sub-Saharan Africa;Lower middle income
+2009;32;Congo, Rep.;Sub-Saharan Africa;Lower middle income
+2010;30,8;Congo, Rep.;Sub-Saharan Africa;Lower middle income
+2011;29,2;Congo, Rep.;Sub-Saharan Africa;Lower middle income
+2012;28,3;Congo, Rep.;Sub-Saharan Africa;Lower middle income
+2013;27,3;Congo, Rep.;Sub-Saharan Africa;Lower middle income
+2014;27,1;Congo, Rep.;Sub-Saharan Africa;Lower middle income
+2015;28,2;Congo, Rep.;Sub-Saharan Africa;Lower middle income
+2000;5,1;Costa Rica;Latin America & Caribbean;Upper middle income
+2001;5,3;Costa Rica;Latin America & Caribbean;Upper middle income
+2002;5,7;Costa Rica;Latin America & Caribbean;Upper middle income
+2003;5,9;Costa Rica;Latin America & Caribbean;Upper middle income
+2004;5,8;Costa Rica;Latin America & Caribbean;Upper middle income
+2005;5,4;Costa Rica;Latin America & Caribbean;Upper middle income
+2006;5,1;Costa Rica;Latin America & Caribbean;Upper middle income
+2007;5;Costa Rica;Latin America & Caribbean;Upper middle income
+2008;5,1;Costa Rica;Latin America & Caribbean;Upper middle income
+2009;5,2;Costa Rica;Latin America & Caribbean;Upper middle income
+2010;5,2;Costa Rica;Latin America & Caribbean;Upper middle income
+2011;5,2;Costa Rica;Latin America & Caribbean;Upper middle income
+2012;5,4;Costa Rica;Latin America & Caribbean;Upper middle income
+2013;5,6;Costa Rica;Latin America & Caribbean;Upper middle income
+2014;5,7;Costa Rica;Latin America & Caribbean;Upper middle income
+2015;5,6;Costa Rica;Latin America & Caribbean;Upper middle income
+2000;17,6;Cote d'Ivoire;Sub-Saharan Africa;Lower middle income
+2001;18,5;Cote d'Ivoire;Sub-Saharan Africa;Lower middle income
+2002;18,5;Cote d'Ivoire;Sub-Saharan Africa;Lower middle income
+2003;17,9;Cote d'Ivoire;Sub-Saharan Africa;Lower middle income
+2004;16,9;Cote d'Ivoire;Sub-Saharan Africa;Lower middle income
+2005;16,2;Cote d'Ivoire;Sub-Saharan Africa;Lower middle income
+2006;15,9;Cote d'Ivoire;Sub-Saharan Africa;Lower middle income
+2007;16;Cote d'Ivoire;Sub-Saharan Africa;Lower middle income
+2008;16,5;Cote d'Ivoire;Sub-Saharan Africa;Lower middle income
+2009;16,6;Cote d'Ivoire;Sub-Saharan Africa;Lower middle income
+2010;16,5;Cote d'Ivoire;Sub-Saharan Africa;Lower middle income
+2011;16;Cote d'Ivoire;Sub-Saharan Africa;Lower middle income
+2012;15,6;Cote d'Ivoire;Sub-Saharan Africa;Lower middle income
+2013;15,2;Cote d'Ivoire;Sub-Saharan Africa;Lower middle income
+2014;15,1;Cote d'Ivoire;Sub-Saharan Africa;Lower middle income
+2015;15,4;Cote d'Ivoire;Sub-Saharan Africa;Lower middle income
+2000;10,4;Croatia;Europe & Central Asia;High income
+2001;7,8;Croatia;Europe & Central Asia;High income
+2002;5,8;Croatia;Europe & Central Asia;High income
+2003;4,4;Croatia;Europe & Central Asia;High income
+2004;3,5;Croatia;Europe & Central Asia;High income
+2005;2,9;Croatia;Europe & Central Asia;High income
+2006;2,5;Croatia;Europe & Central Asia;High income
+2007;2,5;Croatia;Europe & Central Asia;High income
+2008;2,5;Croatia;Europe & Central Asia;High income
+2009;2,5;Croatia;Europe & Central Asia;High income
+2010;2,5;Croatia;Europe & Central Asia;High income
+2011;2,6;Croatia;Europe & Central Asia;High income
+2012;2,5;Croatia;Europe & Central Asia;High income
+2013;2,5;Croatia;Europe & Central Asia;High income
+2014;2,5;Croatia;Europe & Central Asia;High income
+2015;2,5;Croatia;Europe & Central Asia;High income
+2000;3,7;Cuba;Latin America & Caribbean;Upper middle income
+2001;2,8;Cuba;Latin America & Caribbean;Upper middle income
+2002;2,5;Cuba;Latin America & Caribbean;Upper middle income
+2003;2,5;Cuba;Latin America & Caribbean;Upper middle income
+2004;2,5;Cuba;Latin America & Caribbean;Upper middle income
+2005;2,5;Cuba;Latin America & Caribbean;Upper middle income
+2006;2,5;Cuba;Latin America & Caribbean;Upper middle income
+2007;2,5;Cuba;Latin America & Caribbean;Upper middle income
+2008;2,5;Cuba;Latin America & Caribbean;Upper middle income
+2009;2,5;Cuba;Latin America & Caribbean;Upper middle income
+2010;2,5;Cuba;Latin America & Caribbean;Upper middle income
+2011;2,5;Cuba;Latin America & Caribbean;Upper middle income
+2012;2,5;Cuba;Latin America & Caribbean;Upper middle income
+2013;2,5;Cuba;Latin America & Caribbean;Upper middle income
+2014;2,5;Cuba;Latin America & Caribbean;Upper middle income
+2015;2,5;Cuba;Latin America & Caribbean;Upper middle income
+2000;3,5;Cyprus;Europe & Central Asia;High income
+2001;3,9;Cyprus;Europe & Central Asia;High income
+2002;4,4;Cyprus;Europe & Central Asia;High income
+2003;4,9;Cyprus;Europe & Central Asia;High income
+2004;5,4;Cyprus;Europe & Central Asia;High income
+2005;5,7;Cyprus;Europe & Central Asia;High income
+2006;5,6;Cyprus;Europe & Central Asia;High income
+2007;5,2;Cyprus;Europe & Central Asia;High income
+2008;4,7;Cyprus;Europe & Central Asia;High income
+2009;4,5;Cyprus;Europe & Central Asia;High income
+2010;4,4;Cyprus;Europe & Central Asia;High income
+2011;4,4;Cyprus;Europe & Central Asia;High income
+2012;4,5;Cyprus;Europe & Central Asia;High income
+2013;4,7;Cyprus;Europe & Central Asia;High income
+2014;4,8;Cyprus;Europe & Central Asia;High income
+2015;4,7;Cyprus;Europe & Central Asia;High income
+2000;2,5;Czech Republic;Europe & Central Asia;High income
+2001;2,5;Czech Republic;Europe & Central Asia;High income
+2002;2,5;Czech Republic;Europe & Central Asia;High income
+2003;2,5;Czech Republic;Europe & Central Asia;High income
+2004;2,5;Czech Republic;Europe & Central Asia;High income
+2005;2,5;Czech Republic;Europe & Central Asia;High income
+2006;2,5;Czech Republic;Europe & Central Asia;High income
+2007;2,5;Czech Republic;Europe & Central Asia;High income
+2008;2,5;Czech Republic;Europe & Central Asia;High income
+2009;2,5;Czech Republic;Europe & Central Asia;High income
+2010;2,5;Czech Republic;Europe & Central Asia;High income
+2011;2,5;Czech Republic;Europe & Central Asia;High income
+2012;2,5;Czech Republic;Europe & Central Asia;High income
+2013;2,5;Czech Republic;Europe & Central Asia;High income
+2014;2,5;Czech Republic;Europe & Central Asia;High income
+2015;2,5;Czech Republic;Europe & Central Asia;High income
+2000;2,5;Denmark;Europe & Central Asia;High income
+2001;2,5;Denmark;Europe & Central Asia;High income
+2002;2,5;Denmark;Europe & Central Asia;High income
+2003;2,5;Denmark;Europe & Central Asia;High income
+2004;2,5;Denmark;Europe & Central Asia;High income
+2005;2,5;Denmark;Europe & Central Asia;High income
+2006;2,5;Denmark;Europe & Central Asia;High income
+2007;2,5;Denmark;Europe & Central Asia;High income
+2008;2,5;Denmark;Europe & Central Asia;High income
+2009;2,5;Denmark;Europe & Central Asia;High income
+2010;2,5;Denmark;Europe & Central Asia;High income
+2011;2,5;Denmark;Europe & Central Asia;High income
+2012;2,5;Denmark;Europe & Central Asia;High income
+2013;2,5;Denmark;Europe & Central Asia;High income
+2014;2,5;Denmark;Europe & Central Asia;High income
+2015;2,5;Denmark;Europe & Central Asia;High income
+2000;48,1;Djibouti;Middle East & North Africa;Lower middle income
+2001;45,6;Djibouti;Middle East & North Africa;Lower middle income
+2002;43;Djibouti;Middle East & North Africa;Lower middle income
+2003;40,1;Djibouti;Middle East & North Africa;Lower middle income
+2004;36,6;Djibouti;Middle East & North Africa;Lower middle income
+2005;32,5;Djibouti;Middle East & North Africa;Lower middle income
+2006;28,8;Djibouti;Middle East & North Africa;Lower middle income
+2007;25,8;Djibouti;Middle East & North Africa;Lower middle income
+2008;24,1;Djibouti;Middle East & North Africa;Lower middle income
+2009;23;Djibouti;Middle East & North Africa;Lower middle income
+2010;22,3;Djibouti;Middle East & North Africa;Lower middle income
+2011;21,2;Djibouti;Middle East & North Africa;Lower middle income
+2012;19,4;Djibouti;Middle East & North Africa;Lower middle income
+2013;17,2;Djibouti;Middle East & North Africa;Lower middle income
+2014;14,7;Djibouti;Middle East & North Africa;Lower middle income
+2015;12,8;Djibouti;Middle East & North Africa;Lower middle income
+2000;4,7;Dominica;Latin America & Caribbean;Upper middle income
+2001;4,4;Dominica;Latin America & Caribbean;Upper middle income
+2002;4,6;Dominica;Latin America & Caribbean;Upper middle income
+2003;5;Dominica;Latin America & Caribbean;Upper middle income
+2004;5,5;Dominica;Latin America & Caribbean;Upper middle income
+2005;5,7;Dominica;Latin America & Caribbean;Upper middle income
+2006;5,6;Dominica;Latin America & Caribbean;Upper middle income
+2007;5,1;Dominica;Latin America & Caribbean;Upper middle income
+2008;4,9;Dominica;Latin America & Caribbean;Upper middle income
+2009;4,9;Dominica;Latin America & Caribbean;Upper middle income
+2010;5,2;Dominica;Latin America & Caribbean;Upper middle income
+2011;5,6;Dominica;Latin America & Caribbean;Upper middle income
+2012;5,9;Dominica;Latin America & Caribbean;Upper middle income
+2013;6,1;Dominica;Latin America & Caribbean;Upper middle income
+2014;6;Dominica;Latin America & Caribbean;Upper middle income
+2015;5,8;Dominica;Latin America & Caribbean;Upper middle income
+2000;28,1;Dominican Republic;Latin America & Caribbean;Upper middle income
+2001;27,1;Dominican Republic;Latin America & Caribbean;Upper middle income
+2002;27,5;Dominican Republic;Latin America & Caribbean;Upper middle income
+2003;28,3;Dominican Republic;Latin America & Caribbean;Upper middle income
+2004;27;Dominican Republic;Latin America & Caribbean;Upper middle income
+2005;24,4;Dominican Republic;Latin America & Caribbean;Upper middle income
+2006;21,9;Dominican Republic;Latin America & Caribbean;Upper middle income
+2007;20,9;Dominican Republic;Latin America & Caribbean;Upper middle income
+2008;20,2;Dominican Republic;Latin America & Caribbean;Upper middle income
+2009;18,6;Dominican Republic;Latin America & Caribbean;Upper middle income
+2010;16,5;Dominican Republic;Latin America & Caribbean;Upper middle income
+2011;14,6;Dominican Republic;Latin America & Caribbean;Upper middle income
+2012;13,8;Dominican Republic;Latin America & Caribbean;Upper middle income
+2013;13,6;Dominican Republic;Latin America & Caribbean;Upper middle income
+2014;13,7;Dominican Republic;Latin America & Caribbean;Upper middle income
+2015;13,5;Dominican Republic;Latin America & Caribbean;Upper middle income
+2000;18,5;Ecuador;Latin America & Caribbean;Upper middle income
+2001;18,8;Ecuador;Latin America & Caribbean;Upper middle income
+2002;18,9;Ecuador;Latin America & Caribbean;Upper middle income
+2003;18,6;Ecuador;Latin America & Caribbean;Upper middle income
+2004;17,7;Ecuador;Latin America & Caribbean;Upper middle income
+2005;17;Ecuador;Latin America & Caribbean;Upper middle income
+2006;16,2;Ecuador;Latin America & Caribbean;Upper middle income
+2007;15,6;Ecuador;Latin America & Caribbean;Upper middle income
+2008;14,6;Ecuador;Latin America & Caribbean;Upper middle income
+2009;13,5;Ecuador;Latin America & Caribbean;Upper middle income
+2010;12,2;Ecuador;Latin America & Caribbean;Upper middle income
+2011;11,7;Ecuador;Latin America & Caribbean;Upper middle income
+2012;11,5;Ecuador;Latin America & Caribbean;Upper middle income
+2013;11,7;Ecuador;Latin America & Caribbean;Upper middle income
+2014;11,9;Ecuador;Latin America & Caribbean;Upper middle income
+2015;12,1;Ecuador;Latin America & Caribbean;Upper middle income
+2000;5,3;Egypt, Arab Rep.;Middle East & North Africa;Lower middle income
+2001;5,2;Egypt, Arab Rep.;Middle East & North Africa;Lower middle income
+2002;5,2;Egypt, Arab Rep.;Middle East & North Africa;Lower middle income
+2003;5,4;Egypt, Arab Rep.;Middle East & North Africa;Lower middle income
+2004;5,5;Egypt, Arab Rep.;Middle East & North Africa;Lower middle income
+2005;5,4;Egypt, Arab Rep.;Middle East & North Africa;Lower middle income
+2006;5,1;Egypt, Arab Rep.;Middle East & North Africa;Lower middle income
+2007;4,8;Egypt, Arab Rep.;Middle East & North Africa;Lower middle income
+2008;4,6;Egypt, Arab Rep.;Middle East & North Africa;Lower middle income
+2009;4,5;Egypt, Arab Rep.;Middle East & North Africa;Lower middle income
+2010;4,5;Egypt, Arab Rep.;Middle East & North Africa;Lower middle income
+2011;4,5;Egypt, Arab Rep.;Middle East & North Africa;Lower middle income
+2012;4,4;Egypt, Arab Rep.;Middle East & North Africa;Lower middle income
+2013;4,4;Egypt, Arab Rep.;Middle East & North Africa;Lower middle income
+2014;4,4;Egypt, Arab Rep.;Middle East & North Africa;Lower middle income
+2015;4,5;Egypt, Arab Rep.;Middle East & North Africa;Lower middle income
+2000;11,2;El Salvador;Latin America & Caribbean;Lower middle income
+2001;9,5;El Salvador;Latin America & Caribbean;Lower middle income
+2002;9;El Salvador;Latin America & Caribbean;Lower middle income
+2003;9,5;El Salvador;Latin America & Caribbean;Lower middle income
+2004;10,2;El Salvador;Latin America & Caribbean;Lower middle income
+2005;10,7;El Salvador;Latin America & Caribbean;Lower middle income
+2006;11;El Salvador;Latin America & Caribbean;Lower middle income
+2007;11,2;El Salvador;Latin America & Caribbean;Lower middle income
+2008;11,6;El Salvador;Latin America & Caribbean;Lower middle income
+2009;12,2;El Salvador;Latin America & Caribbean;Lower middle income
+2010;12,7;El Salvador;Latin America & Caribbean;Lower middle income
+2011;12,9;El Salvador;Latin America & Caribbean;Lower middle income
+2012;12,8;El Salvador;Latin America & Caribbean;Lower middle income
+2013;12,4;El Salvador;Latin America & Caribbean;Lower middle income
+2014;12,1;El Salvador;Latin America & Caribbean;Lower middle income
+2015;12,3;El Salvador;Latin America & Caribbean;Lower middle income
+2000;5,6;Estonia;Europe & Central Asia;High income
+2001;5,5;Estonia;Europe & Central Asia;High income
+2002;5,5;Estonia;Europe & Central Asia;High income
+2003;5,2;Estonia;Europe & Central Asia;High income
+2004;4,8;Estonia;Europe & Central Asia;High income
+2005;4,2;Estonia;Europe & Central Asia;High income
+2006;3,7;Estonia;Europe & Central Asia;High income
+2007;3,2;Estonia;Europe & Central Asia;High income
+2008;2,8;Estonia;Europe & Central Asia;High income
+2009;2,5;Estonia;Europe & Central Asia;High income
+2010;2,5;Estonia;Europe & Central Asia;High income
+2011;2,7;Estonia;Europe & Central Asia;High income
+2012;2,9;Estonia;Europe & Central Asia;High income
+2013;2,9;Estonia;Europe & Central Asia;High income
+2014;2,7;Estonia;Europe & Central Asia;High income
+2015;2,5;Estonia;Europe & Central Asia;High income
+2000;51,9;Ethiopia;Sub-Saharan Africa;Low income
+2001;49;Ethiopia;Sub-Saharan Africa;Low income
+2002;46,7;Ethiopia;Sub-Saharan Africa;Low income
+2003;44,2;Ethiopia;Sub-Saharan Africa;Low income
+2004;42;Ethiopia;Sub-Saharan Africa;Low income
+2005;39,7;Ethiopia;Sub-Saharan Africa;Low income
+2006;38,5;Ethiopia;Sub-Saharan Africa;Low income
+2007;37,2;Ethiopia;Sub-Saharan Africa;Low income
+2008;35,6;Ethiopia;Sub-Saharan Africa;Low income
+2009;33,7;Ethiopia;Sub-Saharan Africa;Low income
+2010;32,1;Ethiopia;Sub-Saharan Africa;Low income
+2011;31;Ethiopia;Sub-Saharan Africa;Low income
+2012;30,2;Ethiopia;Sub-Saharan Africa;Low income
+2013;29,4;Ethiopia;Sub-Saharan Africa;Low income
+2014;28,5;Ethiopia;Sub-Saharan Africa;Low income
+2015;28,8;Ethiopia;Sub-Saharan Africa;Low income
+2000;4,8;Fiji;East Asia & Pacific;Upper middle income
+2001;4,7;Fiji;East Asia & Pacific;Upper middle income
+2002;4,6;Fiji;East Asia & Pacific;Upper middle income
+2003;4,5;Fiji;East Asia & Pacific;Upper middle income
+2004;4,4;Fiji;East Asia & Pacific;Upper middle income
+2005;4,3;Fiji;East Asia & Pacific;Upper middle income
+2006;4,2;Fiji;East Asia & Pacific;Upper middle income
+2007;4,3;Fiji;East Asia & Pacific;Upper middle income
+2008;4,3;Fiji;East Asia & Pacific;Upper middle income
+2009;4,5;Fiji;East Asia & Pacific;Upper middle income
+2010;4,5;Fiji;East Asia & Pacific;Upper middle income
+2011;4,5;Fiji;East Asia & Pacific;Upper middle income
+2012;4,4;Fiji;East Asia & Pacific;Upper middle income
+2013;4,4;Fiji;East Asia & Pacific;Upper middle income
+2014;4,5;Fiji;East Asia & Pacific;Upper middle income
+2015;4,6;Fiji;East Asia & Pacific;Upper middle income
+2000;2,5;Finland;Europe & Central Asia;High income
+2001;2,5;Finland;Europe & Central Asia;High income
+2002;2,5;Finland;Europe & Central Asia;High income
+2003;2,5;Finland;Europe & Central Asia;High income
+2004;2,5;Finland;Europe & Central Asia;High income
+2005;2,5;Finland;Europe & Central Asia;High income
+2006;2,5;Finland;Europe & Central Asia;High income
+2007;2,5;Finland;Europe & Central Asia;High income
+2008;2,5;Finland;Europe & Central Asia;High income
+2009;2,5;Finland;Europe & Central Asia;High income
+2010;2,5;Finland;Europe & Central Asia;High income
+2011;2,5;Finland;Europe & Central Asia;High income
+2012;2,5;Finland;Europe & Central Asia;High income
+2013;2,5;Finland;Europe & Central Asia;High income
+2014;2,5;Finland;Europe & Central Asia;High income
+2015;2,5;Finland;Europe & Central Asia;High income
+2000;2,5;France;Europe & Central Asia;High income
+2001;2,5;France;Europe & Central Asia;High income
+2002;2,5;France;Europe & Central Asia;High income
+2003;2,5;France;Europe & Central Asia;High income
+2004;2,5;France;Europe & Central Asia;High income
+2005;2,5;France;Europe & Central Asia;High income
+2006;2,5;France;Europe & Central Asia;High income
+2007;2,5;France;Europe & Central Asia;High income
+2008;2,5;France;Europe & Central Asia;High income
+2009;2,5;France;Europe & Central Asia;High income
+2010;2,5;France;Europe & Central Asia;High income
+2011;2,5;France;Europe & Central Asia;High income
+2012;2,5;France;Europe & Central Asia;High income
+2013;2,5;France;Europe & Central Asia;High income
+2014;2,5;France;Europe & Central Asia;High income
+2015;2,5;France;Europe & Central Asia;High income
+2000;4,6;French Polynesia;East Asia & Pacific;High income
+2001;4,3;French Polynesia;East Asia & Pacific;High income
+2002;4;French Polynesia;East Asia & Pacific;High income
+2003;3,9;French Polynesia;East Asia & Pacific;High income
+2004;3,9;French Polynesia;East Asia & Pacific;High income
+2005;3,9;French Polynesia;East Asia & Pacific;High income
+2006;4;French Polynesia;East Asia & Pacific;High income
+2007;4,2;French Polynesia;East Asia & Pacific;High income
+2008;4,3;French Polynesia;East Asia & Pacific;High income
+2009;4,5;French Polynesia;East Asia & Pacific;High income
+2010;4,5;French Polynesia;East Asia & Pacific;High income
+2011;4,6;French Polynesia;East Asia & Pacific;High income
+2012;4,6;French Polynesia;East Asia & Pacific;High income
+2013;4,7;French Polynesia;East Asia & Pacific;High income
+2014;4,8;French Polynesia;East Asia & Pacific;High income
+2015;4,9;French Polynesia;East Asia & Pacific;High income
+2000;9,4;Gabon;Sub-Saharan Africa;Upper middle income
+2001;9,7;Gabon;Sub-Saharan Africa;Upper middle income
+2002;10,2;Gabon;Sub-Saharan Africa;Upper middle income
+2003;10,2;Gabon;Sub-Saharan Africa;Upper middle income
+2004;10,1;Gabon;Sub-Saharan Africa;Upper middle income
+2005;9,7;Gabon;Sub-Saharan Africa;Upper middle income
+2006;9,8;Gabon;Sub-Saharan Africa;Upper middle income
+2007;10;Gabon;Sub-Saharan Africa;Upper middle income
+2008;10,2;Gabon;Sub-Saharan Africa;Upper middle income
+2009;9,9;Gabon;Sub-Saharan Africa;Upper middle income
+2010;9,4;Gabon;Sub-Saharan Africa;Upper middle income
+2011;8,6;Gabon;Sub-Saharan Africa;Upper middle income
+2012;7,9;Gabon;Sub-Saharan Africa;Upper middle income
+2013;7,3;Gabon;Sub-Saharan Africa;Upper middle income
+2014;7;Gabon;Sub-Saharan Africa;Upper middle income
+2015;7;Gabon;Sub-Saharan Africa;Upper middle income
+2000;13,1;Gambia, The;Sub-Saharan Africa;Low income
+2001;13;Gambia, The;Sub-Saharan Africa;Low income
+2002;13,9;Gambia, The;Sub-Saharan Africa;Low income
+2003;14,6;Gambia, The;Sub-Saharan Africa;Low income
+2004;15,1;Gambia, The;Sub-Saharan Africa;Low income
+2005;15,1;Gambia, The;Sub-Saharan Africa;Low income
+2006;14,5;Gambia, The;Sub-Saharan Africa;Low income
+2007;12,9;Gambia, The;Sub-Saharan Africa;Low income
+2008;11,3;Gambia, The;Sub-Saharan Africa;Low income
+2009;9,9;Gambia, The;Sub-Saharan Africa;Low income
+2010;9,2;Gambia, The;Sub-Saharan Africa;Low income
+2011;9;Gambia, The;Sub-Saharan Africa;Low income
+2012;9,3;Gambia, The;Sub-Saharan Africa;Low income
+2013;9,9;Gambia, The;Sub-Saharan Africa;Low income
+2014;10,5;Gambia, The;Sub-Saharan Africa;Low income
+2015;10,9;Gambia, The;Sub-Saharan Africa;Low income
+2000;13,7;Georgia;Europe & Central Asia;Lower middle income
+2001;13,8;Georgia;Europe & Central Asia;Lower middle income
+2002;11,6;Georgia;Europe & Central Asia;Lower middle income
+2003;9,4;Georgia;Europe & Central Asia;Lower middle income
+2004;8,1;Georgia;Europe & Central Asia;Lower middle income
+2005;7,4;Georgia;Europe & Central Asia;Lower middle income
+2006;7,2;Georgia;Europe & Central Asia;Lower middle income
+2007;7;Georgia;Europe & Central Asia;Lower middle income
+2008;6,9;Georgia;Europe & Central Asia;Lower middle income
+2009;7,2;Georgia;Europe & Central Asia;Lower middle income
+2010;8;Georgia;Europe & Central Asia;Lower middle income
+2011;8,4;Georgia;Europe & Central Asia;Lower middle income
+2012;8,2;Georgia;Europe & Central Asia;Lower middle income
+2013;7,5;Georgia;Europe & Central Asia;Lower middle income
+2014;6,7;Georgia;Europe & Central Asia;Lower middle income
+2015;7;Georgia;Europe & Central Asia;Lower middle income
+2000;2,5;Germany;Europe & Central Asia;High income
+2001;2,5;Germany;Europe & Central Asia;High income
+2002;2,5;Germany;Europe & Central Asia;High income
+2003;2,5;Germany;Europe & Central Asia;High income
+2004;2,5;Germany;Europe & Central Asia;High income
+2005;2,5;Germany;Europe & Central Asia;High income
+2006;2,5;Germany;Europe & Central Asia;High income
+2007;2,5;Germany;Europe & Central Asia;High income
+2008;2,5;Germany;Europe & Central Asia;High income
+2009;2,5;Germany;Europe & Central Asia;High income
+2010;2,5;Germany;Europe & Central Asia;High income
+2011;2,5;Germany;Europe & Central Asia;High income
+2012;2,5;Germany;Europe & Central Asia;High income
+2013;2,5;Germany;Europe & Central Asia;High income
+2014;2,5;Germany;Europe & Central Asia;High income
+2015;2,5;Germany;Europe & Central Asia;High income
+2000;15,9;Ghana;Sub-Saharan Africa;Lower middle income
+2001;13,9;Ghana;Sub-Saharan Africa;Lower middle income
+2002;12,3;Ghana;Sub-Saharan Africa;Lower middle income
+2003;11,2;Ghana;Sub-Saharan Africa;Lower middle income
+2004;10,2;Ghana;Sub-Saharan Africa;Lower middle income
+2005;9,3;Ghana;Sub-Saharan Africa;Lower middle income
+2006;8,4;Ghana;Sub-Saharan Africa;Lower middle income
+2007;7,4;Ghana;Sub-Saharan Africa;Lower middle income
+2008;6,4;Ghana;Sub-Saharan Africa;Lower middle income
+2009;5,7;Ghana;Sub-Saharan Africa;Lower middle income
+2010;5,4;Ghana;Sub-Saharan Africa;Lower middle income
+2011;5,6;Ghana;Sub-Saharan Africa;Lower middle income
+2012;6,1;Ghana;Sub-Saharan Africa;Lower middle income
+2013;6,5;Ghana;Sub-Saharan Africa;Lower middle income
+2014;6,8;Ghana;Sub-Saharan Africa;Lower middle income
+2015;7,6;Ghana;Sub-Saharan Africa;Lower middle income
+2000;2,5;Greece;Europe & Central Asia;High income
+2001;2,5;Greece;Europe & Central Asia;High income
+2002;2,5;Greece;Europe & Central Asia;High income
+2003;2,5;Greece;Europe & Central Asia;High income
+2004;2,5;Greece;Europe & Central Asia;High income
+2005;2,5;Greece;Europe & Central Asia;High income
+2006;2,5;Greece;Europe & Central Asia;High income
+2007;2,5;Greece;Europe & Central Asia;High income
+2008;2,5;Greece;Europe & Central Asia;High income
+2009;2,5;Greece;Europe & Central Asia;High income
+2010;2,5;Greece;Europe & Central Asia;High income
+2011;2,5;Greece;Europe & Central Asia;High income
+2012;2,5;Greece;Europe & Central Asia;High income
+2013;2,5;Greece;Europe & Central Asia;High income
+2014;2,5;Greece;Europe & Central Asia;High income
+2015;2,5;Greece;Europe & Central Asia;High income
+2000;31,1;Grenada;Latin America & Caribbean;Upper middle income
+2001;30,8;Grenada;Latin America & Caribbean;Upper middle income
+2002;30;Grenada;Latin America & Caribbean;Upper middle income
+2003;29,2;Grenada;Latin America & Caribbean;Upper middle income
+2004;28,4;Grenada;Latin America & Caribbean;Upper middle income
+2005;27,8;Grenada;Latin America & Caribbean;Upper middle income
+2006;27,2;Grenada;Latin America & Caribbean;Upper middle income
+2007;26,7;Grenada;Latin America & Caribbean;Upper middle income
+2008;26,1;Grenada;Latin America & Caribbean;Upper middle income
+2009;25,7;Grenada;Latin America & Caribbean;Upper middle income
+2010;25,5;Grenada;Latin America & Caribbean;Upper middle income
+2011;25,5;Grenada;Latin America & Caribbean;Upper middle income
+2012;25,4;Grenada;Latin America & Caribbean;Upper middle income
+2013;25,3;Grenada;Latin America & Caribbean;Upper middle income
+2014;25,4;Grenada;Latin America & Caribbean;Upper middle income
+2015;25,5;Grenada;Latin America & Caribbean;Upper middle income
+2000;20,7;Guatemala;Latin America & Caribbean;Upper middle income
+2001;18,4;Guatemala;Latin America & Caribbean;Upper middle income
+2002;16,7;Guatemala;Latin America & Caribbean;Upper middle income
+2003;16,1;Guatemala;Latin America & Caribbean;Upper middle income
+2004;16,1;Guatemala;Latin America & Caribbean;Upper middle income
+2005;16;Guatemala;Latin America & Caribbean;Upper middle income
+2006;15,9;Guatemala;Latin America & Caribbean;Upper middle income
+2007;15,8;Guatemala;Latin America & Caribbean;Upper middle income
+2008;15,9;Guatemala;Latin America & Caribbean;Upper middle income
+2009;15,6;Guatemala;Latin America & Caribbean;Upper middle income
+2010;15,6;Guatemala;Latin America & Caribbean;Upper middle income
+2011;15,6;Guatemala;Latin America & Caribbean;Upper middle income
+2012;16,2;Guatemala;Latin America & Caribbean;Upper middle income
+2013;16,4;Guatemala;Latin America & Caribbean;Upper middle income
+2014;16,2;Guatemala;Latin America & Caribbean;Upper middle income
+2015;15,6;Guatemala;Latin America & Caribbean;Upper middle income
+2000;26,3;Guinea;Sub-Saharan Africa;Low income
+2001;25,5;Guinea;Sub-Saharan Africa;Low income
+2002;24,7;Guinea;Sub-Saharan Africa;Low income
+2003;23,8;Guinea;Sub-Saharan Africa;Low income
+2004;22,5;Guinea;Sub-Saharan Africa;Low income
+2005;21,4;Guinea;Sub-Saharan Africa;Low income
+2006;20,2;Guinea;Sub-Saharan Africa;Low income
+2007;19,3;Guinea;Sub-Saharan Africa;Low income
+2008;18,6;Guinea;Sub-Saharan Africa;Low income
+2009;18,1;Guinea;Sub-Saharan Africa;Low income
+2010;17,7;Guinea;Sub-Saharan Africa;Low income
+2011;17,4;Guinea;Sub-Saharan Africa;Low income
+2012;17,1;Guinea;Sub-Saharan Africa;Low income
+2013;16,8;Guinea;Sub-Saharan Africa;Low income
+2014;16,7;Guinea;Sub-Saharan Africa;Low income
+2015;17,5;Guinea;Sub-Saharan Africa;Low income
+2000;26,4;Guinea-Bissau;Sub-Saharan Africa;Low income
+2001;25;Guinea-Bissau;Sub-Saharan Africa;Low income
+2002;24,7;Guinea-Bissau;Sub-Saharan Africa;Low income
+2003;25,1;Guinea-Bissau;Sub-Saharan Africa;Low income
+2004;25,1;Guinea-Bissau;Sub-Saharan Africa;Low income
+2005;24,9;Guinea-Bissau;Sub-Saharan Africa;Low income
+2006;24,6;Guinea-Bissau;Sub-Saharan Africa;Low income
+2007;24,2;Guinea-Bissau;Sub-Saharan Africa;Low income
+2008;23,8;Guinea-Bissau;Sub-Saharan Africa;Low income
+2009;23,3;Guinea-Bissau;Sub-Saharan Africa;Low income
+2010;22,8;Guinea-Bissau;Sub-Saharan Africa;Low income
+2011;22,7;Guinea-Bissau;Sub-Saharan Africa;Low income
+2012;23,4;Guinea-Bissau;Sub-Saharan Africa;Low income
+2013;25;Guinea-Bissau;Sub-Saharan Africa;Low income
+2014;26,8;Guinea-Bissau;Sub-Saharan Africa;Low income
+2015;28,3;Guinea-Bissau;Sub-Saharan Africa;Low income
+2000;8,3;Guyana;Latin America & Caribbean;Upper middle income
+2001;7,8;Guyana;Latin America & Caribbean;Upper middle income
+2002;7,9;Guyana;Latin America & Caribbean;Upper middle income
+2003;8,3;Guyana;Latin America & Caribbean;Upper middle income
+2004;8,7;Guyana;Latin America & Caribbean;Upper middle income
+2005;9,1;Guyana;Latin America & Caribbean;Upper middle income
+2006;9,8;Guyana;Latin America & Caribbean;Upper middle income
+2007;10,5;Guyana;Latin America & Caribbean;Upper middle income
+2008;11,3;Guyana;Latin America & Caribbean;Upper middle income
+2009;11,6;Guyana;Latin America & Caribbean;Upper middle income
+2010;11,5;Guyana;Latin America & Caribbean;Upper middle income
+2011;11;Guyana;Latin America & Caribbean;Upper middle income
+2012;10,1;Guyana;Latin America & Caribbean;Upper middle income
+2013;9,4;Guyana;Latin America & Caribbean;Upper middle income
+2014;8,9;Guyana;Latin America & Caribbean;Upper middle income
+2015;8,5;Guyana;Latin America & Caribbean;Upper middle income
+2000;54,9;Haiti;Latin America & Caribbean;Low income
+2001;56;Haiti;Latin America & Caribbean;Low income
+2002;56,9;Haiti;Latin America & Caribbean;Low income
+2003;57,6;Haiti;Latin America & Caribbean;Low income
+2004;57,6;Haiti;Latin America & Caribbean;Low income
+2005;57,1;Haiti;Latin America & Caribbean;Low income
+2006;55,9;Haiti;Latin America & Caribbean;Low income
+2007;54,5;Haiti;Latin America & Caribbean;Low income
+2008;52,5;Haiti;Latin America & Caribbean;Low income
+2009;50,8;Haiti;Latin America & Caribbean;Low income
+2010;49,5;Haiti;Latin America & Caribbean;Low income
+2011;49,6;Haiti;Latin America & Caribbean;Low income
+2012;49,6;Haiti;Latin America & Caribbean;Low income
+2013;49,4;Haiti;Latin America & Caribbean;Low income
+2014;48,2;Haiti;Latin America & Caribbean;Low income
+2015;46,8;Haiti;Latin America & Caribbean;Low income
+2000;19,6;Honduras;Latin America & Caribbean;Lower middle income
+2001;18,6;Honduras;Latin America & Caribbean;Lower middle income
+2002;17,9;Honduras;Latin America & Caribbean;Lower middle income
+2003;17,6;Honduras;Latin America & Caribbean;Lower middle income
+2004;17,5;Honduras;Latin America & Caribbean;Lower middle income
+2005;17,2;Honduras;Latin America & Caribbean;Lower middle income
+2006;16,6;Honduras;Latin America & Caribbean;Lower middle income
+2007;16;Honduras;Latin America & Caribbean;Lower middle income
+2008;15,6;Honduras;Latin America & Caribbean;Lower middle income
+2009;15,5;Honduras;Latin America & Caribbean;Lower middle income
+2010;15,5;Honduras;Latin America & Caribbean;Lower middle income
+2011;15,5;Honduras;Latin America & Caribbean;Lower middle income
+2012;15,6;Honduras;Latin America & Caribbean;Lower middle income
+2013;15,7;Honduras;Latin America & Caribbean;Lower middle income
+2014;15,8;Honduras;Latin America & Caribbean;Lower middle income
+2015;14,8;Honduras;Latin America & Caribbean;Lower middle income
+2000;2,4;Hong Kong SAR, China;East Asia & Pacific;High income
+2001;2,5;Hong Kong SAR, China;East Asia & Pacific;High income
+2002;2,5;Hong Kong SAR, China;East Asia & Pacific;High income
+2003;2,5;Hong Kong SAR, China;East Asia & Pacific;High income
+2004;2,5;Hong Kong SAR, China;East Asia & Pacific;High income
+2005;2,5;Hong Kong SAR, China;East Asia & Pacific;High income
+2006;2,5;Hong Kong SAR, China;East Asia & Pacific;High income
+2007;2,5;Hong Kong SAR, China;East Asia & Pacific;High income
+2008;2,5;Hong Kong SAR, China;East Asia & Pacific;High income
+2009;2,5;Hong Kong SAR, China;East Asia & Pacific;High income
+2010;2,5;Hong Kong SAR, China;East Asia & Pacific;High income
+2011;2,5;Hong Kong SAR, China;East Asia & Pacific;High income
+2012;2,5;Hong Kong SAR, China;East Asia & Pacific;High income
+2013;2,5;Hong Kong SAR, China;East Asia & Pacific;High income
+2014;2,5;Hong Kong SAR, China;East Asia & Pacific;High income
+2015;2,5;Hong Kong SAR, China;East Asia & Pacific;High income
+2000;2,5;Hungary;Europe & Central Asia;High income
+2001;2,5;Hungary;Europe & Central Asia;High income
+2002;2,5;Hungary;Europe & Central Asia;High income
+2003;2,5;Hungary;Europe & Central Asia;High income
+2004;2,5;Hungary;Europe & Central Asia;High income
+2005;2,5;Hungary;Europe & Central Asia;High income
+2006;2,5;Hungary;Europe & Central Asia;High income
+2007;2,5;Hungary;Europe & Central Asia;High income
+2008;2,5;Hungary;Europe & Central Asia;High income
+2009;2,5;Hungary;Europe & Central Asia;High income
+2010;2,5;Hungary;Europe & Central Asia;High income
+2011;2,5;Hungary;Europe & Central Asia;High income
+2012;2,5;Hungary;Europe & Central Asia;High income
+2013;2,5;Hungary;Europe & Central Asia;High income
+2014;2,5;Hungary;Europe & Central Asia;High income
+2015;2,5;Hungary;Europe & Central Asia;High income
+2000;2,5;Iceland;Europe & Central Asia;High income
+2001;2,5;Iceland;Europe & Central Asia;High income
+2002;2,5;Iceland;Europe & Central Asia;High income
+2003;2,5;Iceland;Europe & Central Asia;High income
+2004;2,5;Iceland;Europe & Central Asia;High income
+2005;2,5;Iceland;Europe & Central Asia;High income
+2006;2,5;Iceland;Europe & Central Asia;High income
+2007;2,5;Iceland;Europe & Central Asia;High income
+2008;2,5;Iceland;Europe & Central Asia;High income
+2009;2,5;Iceland;Europe & Central Asia;High income
+2010;2,5;Iceland;Europe & Central Asia;High income
+2011;2,5;Iceland;Europe & Central Asia;High income
+2012;2,5;Iceland;Europe & Central Asia;High income
+2013;2,5;Iceland;Europe & Central Asia;High income
+2014;2,5;Iceland;Europe & Central Asia;High income
+2015;2,5;Iceland;Europe & Central Asia;High income
+2000;17,2;India;South Asia;Lower middle income
+2001;18,3;India;South Asia;Lower middle income
+2002;19,8;India;South Asia;Lower middle income
+2003;20,8;India;South Asia;Lower middle income
+2004;21,2;India;South Asia;Lower middle income
+2005;20,5;India;South Asia;Lower middle income
+2006;19;India;South Asia;Lower middle income
+2007;17,4;India;South Asia;Lower middle income
+2008;16,3;India;South Asia;Lower middle income
+2009;15,8;India;South Asia;Lower middle income
+2010;15,6;India;South Asia;Lower middle income
+2011;15,5;India;South Asia;Lower middle income
+2012;15,4;India;South Asia;Lower middle income
+2013;15,2;India;South Asia;Lower middle income
+2014;14,9;India;South Asia;Lower middle income
+2015;14,5;India;South Asia;Lower middle income
+2000;17,8;Indonesia;East Asia & Pacific;Lower middle income
+2001;18,3;Indonesia;East Asia & Pacific;Lower middle income
+2002;18,4;Indonesia;East Asia & Pacific;Lower middle income
+2003;18,4;Indonesia;East Asia & Pacific;Lower middle income
+2004;18,5;Indonesia;East Asia & Pacific;Lower middle income
+2005;18,6;Indonesia;East Asia & Pacific;Lower middle income
+2006;18,4;Indonesia;East Asia & Pacific;Lower middle income
+2007;17,9;Indonesia;East Asia & Pacific;Lower middle income
+2008;17;Indonesia;East Asia & Pacific;Lower middle income
+2009;14,9;Indonesia;East Asia & Pacific;Lower middle income
+2010;12,5;Indonesia;East Asia & Pacific;Lower middle income
+2011;10,1;Indonesia;East Asia & Pacific;Lower middle income
+2012;8,6;Indonesia;East Asia & Pacific;Lower middle income
+2013;7,6;Indonesia;East Asia & Pacific;Lower middle income
+2014;7;Indonesia;East Asia & Pacific;Lower middle income
+2015;7,9;Indonesia;East Asia & Pacific;Lower middle income
+2000;4,9;Iran, Islamic Rep.;Middle East & North Africa;Upper middle income
+2001;5,3;Iran, Islamic Rep.;Middle East & North Africa;Upper middle income
+2002;5,7;Iran, Islamic Rep.;Middle East & North Africa;Upper middle income
+2003;5,8;Iran, Islamic Rep.;Middle East & North Africa;Upper middle income
+2004;5,9;Iran, Islamic Rep.;Middle East & North Africa;Upper middle income
+2005;6,1;Iran, Islamic Rep.;Middle East & North Africa;Upper middle income
+2006;6,4;Iran, Islamic Rep.;Middle East & North Africa;Upper middle income
+2007;6,5;Iran, Islamic Rep.;Middle East & North Africa;Upper middle income
+2008;6,4;Iran, Islamic Rep.;Middle East & North Africa;Upper middle income
+2009;6,1;Iran, Islamic Rep.;Middle East & North Africa;Upper middle income
+2010;5,8;Iran, Islamic Rep.;Middle East & North Africa;Upper middle income
+2011;5,7;Iran, Islamic Rep.;Middle East & North Africa;Upper middle income
+2012;5,6;Iran, Islamic Rep.;Middle East & North Africa;Upper middle income
+2013;5,5;Iran, Islamic Rep.;Middle East & North Africa;Upper middle income
+2014;5,4;Iran, Islamic Rep.;Middle East & North Africa;Upper middle income
+2015;5,5;Iran, Islamic Rep.;Middle East & North Africa;Upper middle income
+2000;28,3;Iraq;Middle East & North Africa;Upper middle income
+2001;26,9;Iraq;Middle East & North Africa;Upper middle income
+2002;26,6;Iraq;Middle East & North Africa;Upper middle income
+2003;27,1;Iraq;Middle East & North Africa;Upper middle income
+2004;27,4;Iraq;Middle East & North Africa;Upper middle income
+2005;28,2;Iraq;Middle East & North Africa;Upper middle income
+2006;29,3;Iraq;Middle East & North Africa;Upper middle income
+2007;30;Iraq;Middle East & North Africa;Upper middle income
+2008;29,6;Iraq;Middle East & North Africa;Upper middle income
+2009;28,4;Iraq;Middle East & North Africa;Upper middle income
+2010;27,2;Iraq;Middle East & North Africa;Upper middle income
+2011;26,3;Iraq;Middle East & North Africa;Upper middle income
+2012;25,9;Iraq;Middle East & North Africa;Upper middle income
+2013;26;Iraq;Middle East & North Africa;Upper middle income
+2014;26,7;Iraq;Middle East & North Africa;Upper middle income
+2015;27,8;Iraq;Middle East & North Africa;Upper middle income
+2000;2,5;Ireland;Europe & Central Asia;High income
+2001;2,5;Ireland;Europe & Central Asia;High income
+2002;2,5;Ireland;Europe & Central Asia;High income
+2003;2,5;Ireland;Europe & Central Asia;High income
+2004;2,5;Ireland;Europe & Central Asia;High income
+2005;2,5;Ireland;Europe & Central Asia;High income
+2006;2,5;Ireland;Europe & Central Asia;High income
+2007;2,5;Ireland;Europe & Central Asia;High income
+2008;2,5;Ireland;Europe & Central Asia;High income
+2009;2,5;Ireland;Europe & Central Asia;High income
+2010;2,5;Ireland;Europe & Central Asia;High income
+2011;2,5;Ireland;Europe & Central Asia;High income
+2012;2,5;Ireland;Europe & Central Asia;High income
+2013;2,5;Ireland;Europe & Central Asia;High income
+2014;2,5;Ireland;Europe & Central Asia;High income
+2015;2,5;Ireland;Europe & Central Asia;High income
+2000;2,5;Israel;Middle East & North Africa;High income
+2001;2,5;Israel;Middle East & North Africa;High income
+2002;2,5;Israel;Middle East & North Africa;High income
+2003;2,5;Israel;Middle East & North Africa;High income
+2004;2,5;Israel;Middle East & North Africa;High income
+2005;2,5;Israel;Middle East & North Africa;High income
+2006;2,5;Israel;Middle East & North Africa;High income
+2007;2,5;Israel;Middle East & North Africa;High income
+2008;2,5;Israel;Middle East & North Africa;High income
+2009;2,5;Israel;Middle East & North Africa;High income
+2010;2,5;Israel;Middle East & North Africa;High income
+2011;2,5;Israel;Middle East & North Africa;High income
+2012;2,5;Israel;Middle East & North Africa;High income
+2013;2,5;Israel;Middle East & North Africa;High income
+2014;2,5;Israel;Middle East & North Africa;High income
+2015;2,5;Israel;Middle East & North Africa;High income
+2000;2,5;Italy;Europe & Central Asia;High income
+2001;2,5;Italy;Europe & Central Asia;High income
+2002;2,5;Italy;Europe & Central Asia;High income
+2003;2,5;Italy;Europe & Central Asia;High income
+2004;2,5;Italy;Europe & Central Asia;High income
+2005;2,5;Italy;Europe & Central Asia;High income
+2006;2,5;Italy;Europe & Central Asia;High income
+2007;2,5;Italy;Europe & Central Asia;High income
+2008;2,5;Italy;Europe & Central Asia;High income
+2009;2,5;Italy;Europe & Central Asia;High income
+2010;2,5;Italy;Europe & Central Asia;High income
+2011;2,5;Italy;Europe & Central Asia;High income
+2012;2,5;Italy;Europe & Central Asia;High income
+2013;2,5;Italy;Europe & Central Asia;High income
+2014;2,5;Italy;Europe & Central Asia;High income
+2015;2,5;Italy;Europe & Central Asia;High income
+2000;7,3;Jamaica;Latin America & Caribbean;Upper middle income
+2001;6,7;Jamaica;Latin America & Caribbean;Upper middle income
+2002;6,5;Jamaica;Latin America & Caribbean;Upper middle income
+2003;6,5;Jamaica;Latin America & Caribbean;Upper middle income
+2004;6,7;Jamaica;Latin America & Caribbean;Upper middle income
+2005;6,9;Jamaica;Latin America & Caribbean;Upper middle income
+2006;7,3;Jamaica;Latin America & Caribbean;Upper middle income
+2007;7,7;Jamaica;Latin America & Caribbean;Upper middle income
+2008;8,2;Jamaica;Latin America & Caribbean;Upper middle income
+2009;8,5;Jamaica;Latin America & Caribbean;Upper middle income
+2010;8,8;Jamaica;Latin America & Caribbean;Upper middle income
+2011;9;Jamaica;Latin America & Caribbean;Upper middle income
+2012;9,2;Jamaica;Latin America & Caribbean;Upper middle income
+2013;9,5;Jamaica;Latin America & Caribbean;Upper middle income
+2014;9,2;Jamaica;Latin America & Caribbean;Upper middle income
+2015;8,4;Jamaica;Latin America & Caribbean;Upper middle income
+2000;2,5;Japan;East Asia & Pacific;High income
+2001;2,5;Japan;East Asia & Pacific;High income
+2002;2,5;Japan;East Asia & Pacific;High income
+2003;2,5;Japan;East Asia & Pacific;High income
+2004;2,5;Japan;East Asia & Pacific;High income
+2005;2,5;Japan;East Asia & Pacific;High income
+2006;2,5;Japan;East Asia & Pacific;High income
+2007;2,5;Japan;East Asia & Pacific;High income
+2008;2,5;Japan;East Asia & Pacific;High income
+2009;2,4;Japan;East Asia & Pacific;High income
+2010;2,5;Japan;East Asia & Pacific;High income
+2011;2,5;Japan;East Asia & Pacific;High income
+2012;2,5;Japan;East Asia & Pacific;High income
+2013;2,5;Japan;East Asia & Pacific;High income
+2014;2,5;Japan;East Asia & Pacific;High income
+2015;2,5;Japan;East Asia & Pacific;High income
+2000;8,1;Jordan;Middle East & North Africa;Upper middle income
+2001;6,7;Jordan;Middle East & North Africa;Upper middle income
+2002;5,2;Jordan;Middle East & North Africa;Upper middle income
+2003;4,2;Jordan;Middle East & North Africa;Upper middle income
+2004;3,6;Jordan;Middle East & North Africa;Upper middle income
+2005;3,4;Jordan;Middle East & North Africa;Upper middle income
+2006;3,4;Jordan;Middle East & North Africa;Upper middle income
+2007;3,6;Jordan;Middle East & North Africa;Upper middle income
+2008;3,7;Jordan;Middle East & North Africa;Upper middle income
+2009;3,7;Jordan;Middle East & North Africa;Upper middle income
+2010;3,7;Jordan;Middle East & North Africa;Upper middle income
+2011;3,6;Jordan;Middle East & North Africa;Upper middle income
+2012;3,7;Jordan;Middle East & North Africa;Upper middle income
+2013;3,9;Jordan;Middle East & North Africa;Upper middle income
+2014;4,2;Jordan;Middle East & North Africa;Upper middle income
+2015;4,2;Jordan;Middle East & North Africa;Upper middle income
+2000;5,9;Kazakhstan;Europe & Central Asia;Upper middle income
+2001;5,7;Kazakhstan;Europe & Central Asia;Upper middle income
+2002;5,7;Kazakhstan;Europe & Central Asia;Upper middle income
+2003;5,9;Kazakhstan;Europe & Central Asia;Upper middle income
+2004;6,1;Kazakhstan;Europe & Central Asia;Upper middle income
+2005;5,8;Kazakhstan;Europe & Central Asia;Upper middle income
+2006;5,2;Kazakhstan;Europe & Central Asia;Upper middle income
+2007;4,3;Kazakhstan;Europe & Central Asia;Upper middle income
+2008;3,8;Kazakhstan;Europe & Central Asia;Upper middle income
+2009;3,4;Kazakhstan;Europe & Central Asia;Upper middle income
+2010;3,1;Kazakhstan;Europe & Central Asia;Upper middle income
+2011;2,7;Kazakhstan;Europe & Central Asia;Upper middle income
+2012;2,5;Kazakhstan;Europe & Central Asia;Upper middle income
+2013;2,5;Kazakhstan;Europe & Central Asia;Upper middle income
+2014;2,5;Kazakhstan;Europe & Central Asia;Upper middle income
+2015;2,5;Kazakhstan;Europe & Central Asia;Upper middle income
+2000;32,2;Kenya;Sub-Saharan Africa;Lower middle income
+2001;32,8;Kenya;Sub-Saharan Africa;Lower middle income
+2002;34,1;Kenya;Sub-Saharan Africa;Lower middle income
+2003;33,8;Kenya;Sub-Saharan Africa;Lower middle income
+2004;31,9;Kenya;Sub-Saharan Africa;Lower middle income
+2005;28,7;Kenya;Sub-Saharan Africa;Lower middle income
+2006;26,8;Kenya;Sub-Saharan Africa;Lower middle income
+2007;25,9;Kenya;Sub-Saharan Africa;Lower middle income
+2008;25,6;Kenya;Sub-Saharan Africa;Lower middle income
+2009;24,7;Kenya;Sub-Saharan Africa;Lower middle income
+2010;23,7;Kenya;Sub-Saharan Africa;Lower middle income
+2011;22,6;Kenya;Sub-Saharan Africa;Lower middle income
+2012;21,6;Kenya;Sub-Saharan Africa;Lower middle income
+2013;20,5;Kenya;Sub-Saharan Africa;Lower middle income
+2014;19,4;Kenya;Sub-Saharan Africa;Lower middle income
+2015;19,1;Kenya;Sub-Saharan Africa;Lower middle income
+2000;4,4;Kiribati;East Asia & Pacific;Lower middle income
+2001;4,3;Kiribati;East Asia & Pacific;Lower middle income
+2002;4,5;Kiribati;East Asia & Pacific;Lower middle income
+2003;4,6;Kiribati;East Asia & Pacific;Lower middle income
+2004;4,7;Kiribati;East Asia & Pacific;Lower middle income
+2005;4,6;Kiribati;East Asia & Pacific;Lower middle income
+2006;4,6;Kiribati;East Asia & Pacific;Lower middle income
+2007;4,6;Kiribati;East Asia & Pacific;Lower middle income
+2008;4,4;Kiribati;East Asia & Pacific;Lower middle income
+2009;4,1;Kiribati;East Asia & Pacific;Lower middle income
+2010;3,7;Kiribati;East Asia & Pacific;Lower middle income
+2011;3,3;Kiribati;East Asia & Pacific;Lower middle income
+2012;3,1;Kiribati;East Asia & Pacific;Lower middle income
+2013;3,1;Kiribati;East Asia & Pacific;Lower middle income
+2014;3,2;Kiribati;East Asia & Pacific;Lower middle income
+2015;3,3;Kiribati;East Asia & Pacific;Lower middle income
+2000;37,5;Korea, Dem. People’s Rep.;East Asia & Pacific;Low income
+2001;37,1;Korea, Dem. People’s Rep.;East Asia & Pacific;Low income
+2002;35,5;Korea, Dem. People’s Rep.;East Asia & Pacific;Low income
+2003;34,5;Korea, Dem. People’s Rep.;East Asia & Pacific;Low income
+2004;34,1;Korea, Dem. People’s Rep.;East Asia & Pacific;Low income
+2005;35,4;Korea, Dem. People’s Rep.;East Asia & Pacific;Low income
+2006;37,3;Korea, Dem. People’s Rep.;East Asia & Pacific;Low income
+2007;39,3;Korea, Dem. People’s Rep.;East Asia & Pacific;Low income
+2008;40,8;Korea, Dem. People’s Rep.;East Asia & Pacific;Low income
+2009;41,6;Korea, Dem. People’s Rep.;East Asia & Pacific;Low income
+2010;41,8;Korea, Dem. People’s Rep.;East Asia & Pacific;Low income
+2011;41,9;Korea, Dem. People’s Rep.;East Asia & Pacific;Low income
+2012;41,7;Korea, Dem. People’s Rep.;East Asia & Pacific;Low income
+2013;41,4;Korea, Dem. People’s Rep.;East Asia & Pacific;Low income
+2014;41;Korea, Dem. People’s Rep.;East Asia & Pacific;Low income
+2015;40,8;Korea, Dem. People’s Rep.;East Asia & Pacific;Low income
+2000;2,5;Korea, Rep.;East Asia & Pacific;High income
+2001;2,5;Korea, Rep.;East Asia & Pacific;High income
+2002;2,5;Korea, Rep.;East Asia & Pacific;High income
+2003;2,5;Korea, Rep.;East Asia & Pacific;High income
+2004;2,5;Korea, Rep.;East Asia & Pacific;High income
+2005;2,5;Korea, Rep.;East Asia & Pacific;High income
+2006;2,5;Korea, Rep.;East Asia & Pacific;High income
+2007;2,5;Korea, Rep.;East Asia & Pacific;High income
+2008;2,5;Korea, Rep.;East Asia & Pacific;High income
+2009;2,5;Korea, Rep.;East Asia & Pacific;High income
+2010;2,5;Korea, Rep.;East Asia & Pacific;High income
+2011;2,5;Korea, Rep.;East Asia & Pacific;High income
+2012;2,5;Korea, Rep.;East Asia & Pacific;High income
+2013;2,5;Korea, Rep.;East Asia & Pacific;High income
+2014;2,5;Korea, Rep.;East Asia & Pacific;High income
+2015;2,5;Korea, Rep.;East Asia & Pacific;High income
+2000;2,5;Kuwait;Middle East & North Africa;High income
+2001;2,5;Kuwait;Middle East & North Africa;High income
+2002;2,5;Kuwait;Middle East & North Africa;High income
+2003;2,5;Kuwait;Middle East & North Africa;High income
+2004;2,5;Kuwait;Middle East & North Africa;High income
+2005;2,5;Kuwait;Middle East & North Africa;High income
+2006;2,5;Kuwait;Middle East & North Africa;High income
+2007;2,5;Kuwait;Middle East & North Africa;High income
+2008;2,5;Kuwait;Middle East & North Africa;High income
+2009;2,5;Kuwait;Middle East & North Africa;High income
+2010;2,5;Kuwait;Middle East & North Africa;High income
+2011;2,5;Kuwait;Middle East & North Africa;High income
+2012;2,5;Kuwait;Middle East & North Africa;High income
+2013;2,5;Kuwait;Middle East & North Africa;High income
+2014;2,5;Kuwait;Middle East & North Africa;High income
+2015;2,5;Kuwait;Middle East & North Africa;High income
+2000;16,3;Kyrgyz Republic;Europe & Central Asia;Lower middle income
+2001;15,8;Kyrgyz Republic;Europe & Central Asia;Lower middle income
+2002;14,3;Kyrgyz Republic;Europe & Central Asia;Lower middle income
+2003;11,9;Kyrgyz Republic;Europe & Central Asia;Lower middle income
+2004;10,2;Kyrgyz Republic;Europe & Central Asia;Lower middle income
+2005;9,7;Kyrgyz Republic;Europe & Central Asia;Lower middle income
+2006;10;Kyrgyz Republic;Europe & Central Asia;Lower middle income
+2007;10,2;Kyrgyz Republic;Europe & Central Asia;Lower middle income
+2008;9,8;Kyrgyz Republic;Europe & Central Asia;Lower middle income
+2009;9;Kyrgyz Republic;Europe & Central Asia;Lower middle income
+2010;8,2;Kyrgyz Republic;Europe & Central Asia;Lower middle income
+2011;7,7;Kyrgyz Republic;Europe & Central Asia;Lower middle income
+2012;7,3;Kyrgyz Republic;Europe & Central Asia;Lower middle income
+2013;6,9;Kyrgyz Republic;Europe & Central Asia;Lower middle income
+2014;6,7;Kyrgyz Republic;Europe & Central Asia;Lower middle income
+2015;6,4;Kyrgyz Republic;Europe & Central Asia;Lower middle income
+2000;37,6;Lao PDR;East Asia & Pacific;Lower middle income
+2001;35,9;Lao PDR;East Asia & Pacific;Lower middle income
+2002;33,8;Lao PDR;East Asia & Pacific;Lower middle income
+2003;31,3;Lao PDR;East Asia & Pacific;Lower middle income
+2004;28,9;Lao PDR;East Asia & Pacific;Lower middle income
+2005;26,8;Lao PDR;East Asia & Pacific;Lower middle income
+2006;25,7;Lao PDR;East Asia & Pacific;Lower middle income
+2007;24,5;Lao PDR;East Asia & Pacific;Lower middle income
+2008;23,6;Lao PDR;East Asia & Pacific;Lower middle income
+2009;22;Lao PDR;East Asia & Pacific;Lower middle income
+2010;20,7;Lao PDR;East Asia & Pacific;Lower middle income
+2011;19,2;Lao PDR;East Asia & Pacific;Lower middle income
+2012;18,3;Lao PDR;East Asia & Pacific;Lower middle income
+2013;17,4;Lao PDR;East Asia & Pacific;Lower middle income
+2014;17;Lao PDR;East Asia & Pacific;Lower middle income
+2015;17,1;Lao PDR;East Asia & Pacific;Lower middle income
+2000;5,2;Latvia;Europe & Central Asia;High income
+2001;4,5;Latvia;Europe & Central Asia;High income
+2002;3,6;Latvia;Europe & Central Asia;High income
+2003;2,9;Latvia;Europe & Central Asia;High income
+2004;2,5;Latvia;Europe & Central Asia;High income
+2005;2,5;Latvia;Europe & Central Asia;High income
+2006;2,5;Latvia;Europe & Central Asia;High income
+2007;2,5;Latvia;Europe & Central Asia;High income
+2008;2,5;Latvia;Europe & Central Asia;High income
+2009;2,5;Latvia;Europe & Central Asia;High income
+2010;2,5;Latvia;Europe & Central Asia;High income
+2011;2,5;Latvia;Europe & Central Asia;High income
+2012;2,5;Latvia;Europe & Central Asia;High income
+2013;2,5;Latvia;Europe & Central Asia;High income
+2014;2,5;Latvia;Europe & Central Asia;High income
+2015;2,5;Latvia;Europe & Central Asia;High income
+2000;2,5;Lebanon;Middle East & North Africa;Upper middle income
+2001;2,5;Lebanon;Middle East & North Africa;Upper middle income
+2002;2,5;Lebanon;Middle East & North Africa;Upper middle income
+2003;2,8;Lebanon;Middle East & North Africa;Upper middle income
+2004;3,2;Lebanon;Middle East & North Africa;Upper middle income
+2005;3,5;Lebanon;Middle East & North Africa;Upper middle income
+2006;3,7;Lebanon;Middle East & North Africa;Upper middle income
+2007;3,8;Lebanon;Middle East & North Africa;Upper middle income
+2008;3,9;Lebanon;Middle East & North Africa;Upper middle income
+2009;4;Lebanon;Middle East & North Africa;Upper middle income
+2010;4,2;Lebanon;Middle East & North Africa;Upper middle income
+2011;4,5;Lebanon;Middle East & North Africa;Upper middle income
+2012;4,8;Lebanon;Middle East & North Africa;Upper middle income
+2013;5,1;Lebanon;Middle East & North Africa;Upper middle income
+2014;5,3;Lebanon;Middle East & North Africa;Upper middle income
+2015;5,4;Lebanon;Middle East & North Africa;Upper middle income
+2000;13,7;Lesotho;Sub-Saharan Africa;Lower middle income
+2001;13;Lesotho;Sub-Saharan Africa;Lower middle income
+2002;12,6;Lesotho;Sub-Saharan Africa;Lower middle income
+2003;12,3;Lesotho;Sub-Saharan Africa;Lower middle income
+2004;12;Lesotho;Sub-Saharan Africa;Lower middle income
+2005;11,7;Lesotho;Sub-Saharan Africa;Lower middle income
+2006;11,7;Lesotho;Sub-Saharan Africa;Lower middle income
+2007;12;Lesotho;Sub-Saharan Africa;Lower middle income
+2008;12,3;Lesotho;Sub-Saharan Africa;Lower middle income
+2009;12,6;Lesotho;Sub-Saharan Africa;Lower middle income
+2010;12,8;Lesotho;Sub-Saharan Africa;Lower middle income
+2011;13,2;Lesotho;Sub-Saharan Africa;Lower middle income
+2012;13,6;Lesotho;Sub-Saharan Africa;Lower middle income
+2013;14,1;Lesotho;Sub-Saharan Africa;Lower middle income
+2014;14,4;Lesotho;Sub-Saharan Africa;Lower middle income
+2015;14,5;Lesotho;Sub-Saharan Africa;Lower middle income
+2000;38,4;Liberia;Sub-Saharan Africa;Low income
+2001;39,8;Liberia;Sub-Saharan Africa;Low income
+2002;40,6;Liberia;Sub-Saharan Africa;Low income
+2003;40,7;Liberia;Sub-Saharan Africa;Low income
+2004;40;Liberia;Sub-Saharan Africa;Low income
+2005;39,4;Liberia;Sub-Saharan Africa;Low income
+2006;39;Liberia;Sub-Saharan Africa;Low income
+2007;38,2;Liberia;Sub-Saharan Africa;Low income
+2008;37,3;Liberia;Sub-Saharan Africa;Low income
+2009;36,5;Liberia;Sub-Saharan Africa;Low income
+2010;36,5;Liberia;Sub-Saharan Africa;Low income
+2011;36,7;Liberia;Sub-Saharan Africa;Low income
+2012;37,7;Liberia;Sub-Saharan Africa;Low income
+2013;39,2;Liberia;Sub-Saharan Africa;Low income
+2014;41,2;Liberia;Sub-Saharan Africa;Low income
+2015;42,8;Liberia;Sub-Saharan Africa;Low income
+2000;2,9;Lithuania;Europe & Central Asia;High income
+2001;3,1;Lithuania;Europe & Central Asia;High income
+2002;3,1;Lithuania;Europe & Central Asia;High income
+2003;3;Lithuania;Europe & Central Asia;High income
+2004;2,6;Lithuania;Europe & Central Asia;High income
+2005;2,5;Lithuania;Europe & Central Asia;High income
+2006;2,5;Lithuania;Europe & Central Asia;High income
+2007;2,5;Lithuania;Europe & Central Asia;High income
+2008;2,5;Lithuania;Europe & Central Asia;High income
+2009;2,5;Lithuania;Europe & Central Asia;High income
+2010;2,5;Lithuania;Europe & Central Asia;High income
+2011;2,5;Lithuania;Europe & Central Asia;High income
+2012;2,5;Lithuania;Europe & Central Asia;High income
+2013;2,5;Lithuania;Europe & Central Asia;High income
+2014;2,5;Lithuania;Europe & Central Asia;High income
+2015;2,5;Lithuania;Europe & Central Asia;High income
+2000;2,5;Luxembourg;Europe & Central Asia;High income
+2001;2,5;Luxembourg;Europe & Central Asia;High income
+2002;2,5;Luxembourg;Europe & Central Asia;High income
+2003;2,5;Luxembourg;Europe & Central Asia;High income
+2004;2,5;Luxembourg;Europe & Central Asia;High income
+2005;2,5;Luxembourg;Europe & Central Asia;High income
+2006;2,5;Luxembourg;Europe & Central Asia;High income
+2007;2,5;Luxembourg;Europe & Central Asia;High income
+2008;2,5;Luxembourg;Europe & Central Asia;High income
+2009;2,5;Luxembourg;Europe & Central Asia;High income
+2010;2,5;Luxembourg;Europe & Central Asia;High income
+2011;2,5;Luxembourg;Europe & Central Asia;High income
+2012;2,5;Luxembourg;Europe & Central Asia;High income
+2013;2,5;Luxembourg;Europe & Central Asia;High income
+2014;2,5;Luxembourg;Europe & Central Asia;High income
+2015;2,5;Luxembourg;Europe & Central Asia;High income
+2000;22,5;Macao SAR, China;East Asia & Pacific;High income
+2001;21,9;Macao SAR, China;East Asia & Pacific;High income
+2002;20,1;Macao SAR, China;East Asia & Pacific;High income
+2003;17,8;Macao SAR, China;East Asia & Pacific;High income
+2004;15,7;Macao SAR, China;East Asia & Pacific;High income
+2005;14,2;Macao SAR, China;East Asia & Pacific;High income
+2006;13,6;Macao SAR, China;East Asia & Pacific;High income
+2007;13,5;Macao SAR, China;East Asia & Pacific;High income
+2008;13,7;Macao SAR, China;East Asia & Pacific;High income
+2009;13,8;Macao SAR, China;East Asia & Pacific;High income
+2010;13,6;Macao SAR, China;East Asia & Pacific;High income
+2011;13,1;Macao SAR, China;East Asia & Pacific;High income
+2012;11,6;Macao SAR, China;East Asia & Pacific;High income
+2013;9,6;Macao SAR, China;East Asia & Pacific;High income
+2014;7,3;Macao SAR, China;East Asia & Pacific;High income
+2015;6,3;Macao SAR, China;East Asia & Pacific;High income
+2000;7,9;Macedonia, FYR;Europe & Central Asia;Upper middle income
+2001;8,8;Macedonia, FYR;Europe & Central Asia;Upper middle income
+2002;8,5;Macedonia, FYR;Europe & Central Asia;Upper middle income
+2003;7,7;Macedonia, FYR;Europe & Central Asia;Upper middle income
+2004;6,7;Macedonia, FYR;Europe & Central Asia;Upper middle income
+2005;6,1;Macedonia, FYR;Europe & Central Asia;Upper middle income
+2006;5,3;Macedonia, FYR;Europe & Central Asia;Upper middle income
+2007;4,5;Macedonia, FYR;Europe & Central Asia;Upper middle income
+2008;4,1;Macedonia, FYR;Europe & Central Asia;Upper middle income
+2009;4;Macedonia, FYR;Europe & Central Asia;Upper middle income
+2010;4,3;Macedonia, FYR;Europe & Central Asia;Upper middle income
+2011;4,5;Macedonia, FYR;Europe & Central Asia;Upper middle income
+2012;4,6;Macedonia, FYR;Europe & Central Asia;Upper middle income
+2013;4,4;Macedonia, FYR;Europe & Central Asia;Upper middle income
+2014;4,3;Macedonia, FYR;Europe & Central Asia;Upper middle income
+2015;3,9;Macedonia, FYR;Europe & Central Asia;Upper middle income
+2000;34,2;Madagascar;Sub-Saharan Africa;Low income
+2001;35,3;Madagascar;Sub-Saharan Africa;Low income
+2002;36,9;Madagascar;Sub-Saharan Africa;Low income
+2003;37,5;Madagascar;Sub-Saharan Africa;Low income
+2004;36,9;Madagascar;Sub-Saharan Africa;Low income
+2005;35,1;Madagascar;Sub-Saharan Africa;Low income
+2006;33,5;Madagascar;Sub-Saharan Africa;Low income
+2007;32,5;Madagascar;Sub-Saharan Africa;Low income
+2008;32,3;Madagascar;Sub-Saharan Africa;Low income
+2009;32;Madagascar;Sub-Saharan Africa;Low income
+2010;31,9;Madagascar;Sub-Saharan Africa;Low income
+2011;31,9;Madagascar;Sub-Saharan Africa;Low income
+2012;33,3;Madagascar;Sub-Saharan Africa;Low income
+2013;35,5;Madagascar;Sub-Saharan Africa;Low income
+2014;39;Madagascar;Sub-Saharan Africa;Low income
+2015;42,3;Madagascar;Sub-Saharan Africa;Low income
+2000;27,1;Malawi;Sub-Saharan Africa;Low income
+2001;26,5;Malawi;Sub-Saharan Africa;Low income
+2002;27;Malawi;Sub-Saharan Africa;Low income
+2003;27,5;Malawi;Sub-Saharan Africa;Low income
+2004;27,3;Malawi;Sub-Saharan Africa;Low income
+2005;26,2;Malawi;Sub-Saharan Africa;Low income
+2006;24,6;Malawi;Sub-Saharan Africa;Low income
+2007;23,2;Malawi;Sub-Saharan Africa;Low income
+2008;22,4;Malawi;Sub-Saharan Africa;Low income
+2009;22;Malawi;Sub-Saharan Africa;Low income
+2010;21,7;Malawi;Sub-Saharan Africa;Low income
+2011;21,3;Malawi;Sub-Saharan Africa;Low income
+2012;21,1;Malawi;Sub-Saharan Africa;Low income
+2013;21,7;Malawi;Sub-Saharan Africa;Low income
+2014;23,5;Malawi;Sub-Saharan Africa;Low income
+2015;25,9;Malawi;Sub-Saharan Africa;Low income
+2000;2,8;Malaysia;East Asia & Pacific;Upper middle income
+2001;3,2;Malaysia;East Asia & Pacific;Upper middle income
+2002;3,5;Malaysia;East Asia & Pacific;Upper middle income
+2003;3,7;Malaysia;East Asia & Pacific;Upper middle income
+2004;3,8;Malaysia;East Asia & Pacific;Upper middle income
+2005;3,9;Malaysia;East Asia & Pacific;Upper middle income
+2006;4,1;Malaysia;East Asia & Pacific;Upper middle income
+2007;4,2;Malaysia;East Asia & Pacific;Upper middle income
+2008;4,2;Malaysia;East Asia & Pacific;Upper middle income
+2009;4;Malaysia;East Asia & Pacific;Upper middle income
+2010;3,7;Malaysia;East Asia & Pacific;Upper middle income
+2011;3,5;Malaysia;East Asia & Pacific;Upper middle income
+2012;3,3;Malaysia;East Asia & Pacific;Upper middle income
+2013;3;Malaysia;East Asia & Pacific;Upper middle income
+2014;2,6;Malaysia;East Asia & Pacific;Upper middle income
+2015;2,5;Malaysia;East Asia & Pacific;Upper middle income
+2000;14;Maldives;South Asia;Upper middle income
+2001;14,4;Maldives;South Asia;Upper middle income
+2002;15;Maldives;South Asia;Upper middle income
+2003;15,8;Maldives;South Asia;Upper middle income
+2004;16,5;Maldives;South Asia;Upper middle income
+2005;16,9;Maldives;South Asia;Upper middle income
+2006;16,5;Maldives;South Asia;Upper middle income
+2007;15,3;Maldives;South Asia;Upper middle income
+2008;13,5;Maldives;South Asia;Upper middle income
+2009;11,5;Maldives;South Asia;Upper middle income
+2010;10;Maldives;South Asia;Upper middle income
+2011;9,3;Maldives;South Asia;Upper middle income
+2012;9,1;Maldives;South Asia;Upper middle income
+2013;9;Maldives;South Asia;Upper middle income
+2014;8,9;Maldives;South Asia;Upper middle income
+2015;8,5;Maldives;South Asia;Upper middle income
+2000;14,6;Mali;Sub-Saharan Africa;Low income
+2001;14;Mali;Sub-Saharan Africa;Low income
+2002;13,6;Mali;Sub-Saharan Africa;Low income
+2003;13;Mali;Sub-Saharan Africa;Low income
+2004;12,3;Mali;Sub-Saharan Africa;Low income
+2005;11,2;Mali;Sub-Saharan Africa;Low income
+2006;10;Mali;Sub-Saharan Africa;Low income
+2007;8,8;Mali;Sub-Saharan Africa;Low income
+2008;7,9;Mali;Sub-Saharan Africa;Low income
+2009;7,3;Mali;Sub-Saharan Africa;Low income
+2010;7,1;Mali;Sub-Saharan Africa;Low income
+2011;6,8;Mali;Sub-Saharan Africa;Low income
+2012;6,5;Mali;Sub-Saharan Africa;Low income
+2013;5,8;Mali;Sub-Saharan Africa;Low income
+2014;4,9;Mali;Sub-Saharan Africa;Low income
+2015;4;Mali;Sub-Saharan Africa;Low income
+2000;2,5;Malta;Middle East & North Africa;High income
+2001;2,5;Malta;Middle East & North Africa;High income
+2002;2,5;Malta;Middle East & North Africa;High income
+2003;2,5;Malta;Middle East & North Africa;High income
+2004;2,5;Malta;Middle East & North Africa;High income
+2005;2,5;Malta;Middle East & North Africa;High income
+2006;2,5;Malta;Middle East & North Africa;High income
+2007;2,5;Malta;Middle East & North Africa;High income
+2008;2,5;Malta;Middle East & North Africa;High income
+2009;2,5;Malta;Middle East & North Africa;High income
+2010;2,5;Malta;Middle East & North Africa;High income
+2011;2,5;Malta;Middle East & North Africa;High income
+2012;2,5;Malta;Middle East & North Africa;High income
+2013;2,5;Malta;Middle East & North Africa;High income
+2014;2,5;Malta;Middle East & North Africa;High income
+2015;2,5;Malta;Middle East & North Africa;High income
+2000;11,7;Mauritania;Sub-Saharan Africa;Lower middle income
+2001;11,5;Mauritania;Sub-Saharan Africa;Lower middle income
+2002;11,5;Mauritania;Sub-Saharan Africa;Lower middle income
+2003;11,6;Mauritania;Sub-Saharan Africa;Lower middle income
+2004;12,2;Mauritania;Sub-Saharan Africa;Lower middle income
+2005;12,2;Mauritania;Sub-Saharan Africa;Lower middle income
+2006;11,6;Mauritania;Sub-Saharan Africa;Lower middle income
+2007;10,3;Mauritania;Sub-Saharan Africa;Lower middle income
+2008;9,4;Mauritania;Sub-Saharan Africa;Lower middle income
+2009;8,8;Mauritania;Sub-Saharan Africa;Lower middle income
+2010;8,3;Mauritania;Sub-Saharan Africa;Lower middle income
+2011;7,8;Mauritania;Sub-Saharan Africa;Lower middle income
+2012;7,2;Mauritania;Sub-Saharan Africa;Lower middle income
+2013;6,3;Mauritania;Sub-Saharan Africa;Lower middle income
+2014;5,7;Mauritania;Sub-Saharan Africa;Lower middle income
+2015;5,3;Mauritania;Sub-Saharan Africa;Lower middle income
+2000;6,6;Mauritius;Sub-Saharan Africa;Upper middle income
+2001;6,3;Mauritius;Sub-Saharan Africa;Upper middle income
+2002;6;Mauritius;Sub-Saharan Africa;Upper middle income
+2003;5,7;Mauritius;Sub-Saharan Africa;Upper middle income
+2004;5,5;Mauritius;Sub-Saharan Africa;Upper middle income
+2005;5,2;Mauritius;Sub-Saharan Africa;Upper middle income
+2006;5,2;Mauritius;Sub-Saharan Africa;Upper middle income
+2007;5;Mauritius;Sub-Saharan Africa;Upper middle income
+2008;4,9;Mauritius;Sub-Saharan Africa;Upper middle income
+2009;4,7;Mauritius;Sub-Saharan Africa;Upper middle income
+2010;4,8;Mauritius;Sub-Saharan Africa;Upper middle income
+2011;5,1;Mauritius;Sub-Saharan Africa;Upper middle income
+2012;5,4;Mauritius;Sub-Saharan Africa;Upper middle income
+2013;5,4;Mauritius;Sub-Saharan Africa;Upper middle income
+2014;5,2;Mauritius;Sub-Saharan Africa;Upper middle income
+2015;5,2;Mauritius;Sub-Saharan Africa;Upper middle income
+2000;4,4;Mexico;Latin America & Caribbean;Upper middle income
+2001;4,4;Mexico;Latin America & Caribbean;Upper middle income
+2002;4,8;Mexico;Latin America & Caribbean;Upper middle income
+2003;5,5;Mexico;Latin America & Caribbean;Upper middle income
+2004;5,7;Mexico;Latin America & Caribbean;Upper middle income
+2005;5,5;Mexico;Latin America & Caribbean;Upper middle income
+2006;5;Mexico;Latin America & Caribbean;Upper middle income
+2007;4,7;Mexico;Latin America & Caribbean;Upper middle income
+2008;4,6;Mexico;Latin America & Caribbean;Upper middle income
+2009;4,6;Mexico;Latin America & Caribbean;Upper middle income
+2010;4,6;Mexico;Latin America & Caribbean;Upper middle income
+2011;4,6;Mexico;Latin America & Caribbean;Upper middle income
+2012;4,5;Mexico;Latin America & Caribbean;Upper middle income
+2013;4,5;Mexico;Latin America & Caribbean;Upper middle income
+2014;4,4;Mexico;Latin America & Caribbean;Upper middle income
+2015;4,2;Mexico;Latin America & Caribbean;Upper middle income
+2000;19,6;Moldova;Europe & Central Asia;Lower middle income
+2001;19,6;Moldova;Europe & Central Asia;Lower middle income
+2002;20;Moldova;Europe & Central Asia;Lower middle income
+2003;21,3;Moldova;Europe & Central Asia;Lower middle income
+2004;22,7;Moldova;Europe & Central Asia;Lower middle income
+2005;24,2;Moldova;Europe & Central Asia;Lower middle income
+2006;23,5;Moldova;Europe & Central Asia;Lower middle income
+2007;21,4;Moldova;Europe & Central Asia;Lower middle income
+2008;18,5;Moldova;Europe & Central Asia;Lower middle income
+2009;16,3;Moldova;Europe & Central Asia;Lower middle income
+2010;13,9;Moldova;Europe & Central Asia;Lower middle income
+2011;11;Moldova;Europe & Central Asia;Lower middle income
+2012;8,8;Moldova;Europe & Central Asia;Lower middle income
+2013;7,8;Moldova;Europe & Central Asia;Lower middle income
+2014;8,1;Moldova;Europe & Central Asia;Lower middle income
+2015;8,5;Moldova;Europe & Central Asia;Lower middle income
+2000;35,1;Mongolia;East Asia & Pacific;Lower middle income
+2001;33,4;Mongolia;East Asia & Pacific;Lower middle income
+2002;32,7;Mongolia;East Asia & Pacific;Lower middle income
+2003;32,5;Mongolia;East Asia & Pacific;Lower middle income
+2004;32,2;Mongolia;East Asia & Pacific;Lower middle income
+2005;31;Mongolia;East Asia & Pacific;Lower middle income
+2006;29,1;Mongolia;East Asia & Pacific;Lower middle income
+2007;26,5;Mongolia;East Asia & Pacific;Lower middle income
+2008;24,2;Mongolia;East Asia & Pacific;Lower middle income
+2009;22,1;Mongolia;East Asia & Pacific;Lower middle income
+2010;20,8;Mongolia;East Asia & Pacific;Lower middle income
+2011;19,6;Mongolia;East Asia & Pacific;Lower middle income
+2012;18,8;Mongolia;East Asia & Pacific;Lower middle income
+2013;18,3;Mongolia;East Asia & Pacific;Lower middle income
+2014;18,3;Mongolia;East Asia & Pacific;Lower middle income
+2015;19,6;Mongolia;East Asia & Pacific;Lower middle income
+2000;6,8;Morocco;Middle East & North Africa;Lower middle income
+2001;6,7;Morocco;Middle East & North Africa;Lower middle income
+2002;6,4;Morocco;Middle East & North Africa;Lower middle income
+2003;6,1;Morocco;Middle East & North Africa;Lower middle income
+2004;5,8;Morocco;Middle East & North Africa;Lower middle income
+2005;5,8;Morocco;Middle East & North Africa;Lower middle income
+2006;5,7;Morocco;Middle East & North Africa;Lower middle income
+2007;5,6;Morocco;Middle East & North Africa;Lower middle income
+2008;5,5;Morocco;Middle East & North Africa;Lower middle income
+2009;5,4;Morocco;Middle East & North Africa;Lower middle income
+2010;5,3;Morocco;Middle East & North Africa;Lower middle income
+2011;5;Morocco;Middle East & North Africa;Lower middle income
+2012;4,6;Morocco;Middle East & North Africa;Lower middle income
+2013;4,3;Morocco;Middle East & North Africa;Lower middle income
+2014;4,1;Morocco;Middle East & North Africa;Lower middle income
+2015;3,5;Morocco;Middle East & North Africa;Lower middle income
+2000;40,3;Mozambique;Sub-Saharan Africa;Low income
+2001;40,1;Mozambique;Sub-Saharan Africa;Low income
+2002;39,2;Mozambique;Sub-Saharan Africa;Low income
+2003;38,2;Mozambique;Sub-Saharan Africa;Low income
+2004;37,5;Mozambique;Sub-Saharan Africa;Low income
+2005;37;Mozambique;Sub-Saharan Africa;Low income
+2006;35,9;Mozambique;Sub-Saharan Africa;Low income
+2007;35;Mozambique;Sub-Saharan Africa;Low income
+2008;33,3;Mozambique;Sub-Saharan Africa;Low income
+2009;31,8;Mozambique;Sub-Saharan Africa;Low income
+2010;30;Mozambique;Sub-Saharan Africa;Low income
+2011;28,8;Mozambique;Sub-Saharan Africa;Low income
+2012;27,8;Mozambique;Sub-Saharan Africa;Low income
+2013;27,3;Mozambique;Sub-Saharan Africa;Low income
+2014;26,8;Mozambique;Sub-Saharan Africa;Low income
+2015;26,6;Mozambique;Sub-Saharan Africa;Low income
+2000;48,4;Myanmar;East Asia & Pacific;Lower middle income
+2001;45;Myanmar;East Asia & Pacific;Lower middle income
+2002;41,4;Myanmar;East Asia & Pacific;Lower middle income
+2003;38,3;Myanmar;East Asia & Pacific;Lower middle income
+2004;35,3;Myanmar;East Asia & Pacific;Lower middle income
+2005;32,1;Myanmar;East Asia & Pacific;Lower middle income
+2006;28,5;Myanmar;East Asia & Pacific;Lower middle income
+2007;25;Myanmar;East Asia & Pacific;Lower middle income
+2008;21,7;Myanmar;East Asia & Pacific;Lower middle income
+2009;19,1;Myanmar;East Asia & Pacific;Lower middle income
+2010;16,9;Myanmar;East Asia & Pacific;Lower middle income
+2011;15,5;Myanmar;East Asia & Pacific;Lower middle income
+2012;14,7;Myanmar;East Asia & Pacific;Lower middle income
+2013;14,4;Myanmar;East Asia & Pacific;Lower middle income
+2014;14,4;Myanmar;East Asia & Pacific;Lower middle income
+2015;16,9;Myanmar;East Asia & Pacific;Lower middle income
+2000;26,3;Namibia;Sub-Saharan Africa;Upper middle income
+2001;24,5;Namibia;Sub-Saharan Africa;Upper middle income
+2002;24,4;Namibia;Sub-Saharan Africa;Upper middle income
+2003;24,4;Namibia;Sub-Saharan Africa;Upper middle income
+2004;24,6;Namibia;Sub-Saharan Africa;Upper middle income
+2005;25,2;Namibia;Sub-Saharan Africa;Upper middle income
+2006;26,8;Namibia;Sub-Saharan Africa;Upper middle income
+2007;29,7;Namibia;Sub-Saharan Africa;Upper middle income
+2008;33,5;Namibia;Sub-Saharan Africa;Upper middle income
+2009;36,5;Namibia;Sub-Saharan Africa;Upper middle income
+2010;37,6;Namibia;Sub-Saharan Africa;Upper middle income
+2011;36,3;Namibia;Sub-Saharan Africa;Upper middle income
+2012;33,9;Namibia;Sub-Saharan Africa;Upper middle income
+2013;31,4;Namibia;Sub-Saharan Africa;Upper middle income
+2014;29,7;Namibia;Sub-Saharan Africa;Upper middle income
+2015;28,8;Namibia;Sub-Saharan Africa;Upper middle income
+2000;22;Nepal;South Asia;Low income
+2001;21,3;Nepal;South Asia;Low income
+2002;20,3;Nepal;South Asia;Low income
+2003;18,6;Nepal;South Asia;Low income
+2004;17,1;Nepal;South Asia;Low income
+2005;15,9;Nepal;South Asia;Low income
+2006;15,1;Nepal;South Asia;Low income
+2007;13,9;Nepal;South Asia;Low income
+2008;12,6;Nepal;South Asia;Low income
+2009;11,1;Nepal;South Asia;Low income
+2010;10,1;Nepal;South Asia;Low income
+2011;9,3;Nepal;South Asia;Low income
+2012;8,8;Nepal;South Asia;Low income
+2013;8,5;Nepal;South Asia;Low income
+2014;8,2;Nepal;South Asia;Low income
+2015;8,1;Nepal;South Asia;Low income
+2000;2,5;Netherlands;Europe & Central Asia;High income
+2001;2,5;Netherlands;Europe & Central Asia;High income
+2002;2,5;Netherlands;Europe & Central Asia;High income
+2003;2,5;Netherlands;Europe & Central Asia;High income
+2004;2,5;Netherlands;Europe & Central Asia;High income
+2005;2,5;Netherlands;Europe & Central Asia;High income
+2006;2,5;Netherlands;Europe & Central Asia;High income
+2007;2,5;Netherlands;Europe & Central Asia;High income
+2008;2,5;Netherlands;Europe & Central Asia;High income
+2009;2,5;Netherlands;Europe & Central Asia;High income
+2010;2,5;Netherlands;Europe & Central Asia;High income
+2011;2,5;Netherlands;Europe & Central Asia;High income
+2012;2,5;Netherlands;Europe & Central Asia;High income
+2013;2,5;Netherlands;Europe & Central Asia;High income
+2014;2,5;Netherlands;Europe & Central Asia;High income
+2015;2,5;Netherlands;Europe & Central Asia;High income
+2000;7,7;New Caledonia;East Asia & Pacific;High income
+2001;7,6;New Caledonia;East Asia & Pacific;High income
+2002;7,7;New Caledonia;East Asia & Pacific;High income
+2003;7,9;New Caledonia;East Asia & Pacific;High income
+2004;8,2;New Caledonia;East Asia & Pacific;High income
+2005;8,3;New Caledonia;East Asia & Pacific;High income
+2006;8,3;New Caledonia;East Asia & Pacific;High income
+2007;8,3;New Caledonia;East Asia & Pacific;High income
+2008;8,2;New Caledonia;East Asia & Pacific;High income
+2009;8;New Caledonia;East Asia & Pacific;High income
+2010;7,7;New Caledonia;East Asia & Pacific;High income
+2011;7,5;New Caledonia;East Asia & Pacific;High income
+2012;7,4;New Caledonia;East Asia & Pacific;High income
+2013;7,8;New Caledonia;East Asia & Pacific;High income
+2014;8,4;New Caledonia;East Asia & Pacific;High income
+2015;9,1;New Caledonia;East Asia & Pacific;High income
+2000;2,5;New Zealand;East Asia & Pacific;High income
+2001;2,5;New Zealand;East Asia & Pacific;High income
+2002;2,5;New Zealand;East Asia & Pacific;High income
+2003;2,5;New Zealand;East Asia & Pacific;High income
+2004;2,5;New Zealand;East Asia & Pacific;High income
+2005;2,5;New Zealand;East Asia & Pacific;High income
+2006;2,5;New Zealand;East Asia & Pacific;High income
+2007;2,5;New Zealand;East Asia & Pacific;High income
+2008;2,5;New Zealand;East Asia & Pacific;High income
+2009;2,5;New Zealand;East Asia & Pacific;High income
+2010;2,5;New Zealand;East Asia & Pacific;High income
+2011;2,5;New Zealand;East Asia & Pacific;High income
+2012;2,5;New Zealand;East Asia & Pacific;High income
+2013;2,5;New Zealand;East Asia & Pacific;High income
+2014;2,5;New Zealand;East Asia & Pacific;High income
+2015;2,5;New Zealand;East Asia & Pacific;High income
+2000;32,6;Nicaragua;Latin America & Caribbean;Lower middle income
+2001;29,3;Nicaragua;Latin America & Caribbean;Lower middle income
+2002;27,4;Nicaragua;Latin America & Caribbean;Lower middle income
+2003;26,2;Nicaragua;Latin America & Caribbean;Lower middle income
+2004;25,4;Nicaragua;Latin America & Caribbean;Lower middle income
+2005;24,4;Nicaragua;Latin America & Caribbean;Lower middle income
+2006;23,4;Nicaragua;Latin America & Caribbean;Lower middle income
+2007;22,6;Nicaragua;Latin America & Caribbean;Lower middle income
+2008;22,1;Nicaragua;Latin America & Caribbean;Lower middle income
+2009;21,6;Nicaragua;Latin America & Caribbean;Lower middle income
+2010;20,9;Nicaragua;Latin America & Caribbean;Lower middle income
+2011;20;Nicaragua;Latin America & Caribbean;Lower middle income
+2012;19;Nicaragua;Latin America & Caribbean;Lower middle income
+2013;17,9;Nicaragua;Latin America & Caribbean;Lower middle income
+2014;17,1;Nicaragua;Latin America & Caribbean;Lower middle income
+2015;17;Nicaragua;Latin America & Caribbean;Lower middle income
+2000;21,8;Niger;Sub-Saharan Africa;Low income
+2001;19,9;Niger;Sub-Saharan Africa;Low income
+2002;18,6;Niger;Sub-Saharan Africa;Low income
+2003;17,2;Niger;Sub-Saharan Africa;Low income
+2004;16;Niger;Sub-Saharan Africa;Low income
+2005;15,2;Niger;Sub-Saharan Africa;Low income
+2006;14,5;Niger;Sub-Saharan Africa;Low income
+2007;13,6;Niger;Sub-Saharan Africa;Low income
+2008;12,5;Niger;Sub-Saharan Africa;Low income
+2009;11,8;Niger;Sub-Saharan Africa;Low income
+2010;11,3;Niger;Sub-Saharan Africa;Low income
+2011;10,9;Niger;Sub-Saharan Africa;Low income
+2012;10,6;Niger;Sub-Saharan Africa;Low income
+2013;10,3;Niger;Sub-Saharan Africa;Low income
+2014;10;Niger;Sub-Saharan Africa;Low income
+2015;11,3;Niger;Sub-Saharan Africa;Low income
+2000;9,4;Nigeria;Sub-Saharan Africa;Lower middle income
+2001;9,1;Nigeria;Sub-Saharan Africa;Lower middle income
+2002;9;Nigeria;Sub-Saharan Africa;Lower middle income
+2003;8,4;Nigeria;Sub-Saharan Africa;Lower middle income
+2004;7,5;Nigeria;Sub-Saharan Africa;Lower middle income
+2005;6,6;Nigeria;Sub-Saharan Africa;Lower middle income
+2006;6,1;Nigeria;Sub-Saharan Africa;Lower middle income
+2007;6;Nigeria;Sub-Saharan Africa;Lower middle income
+2008;6,1;Nigeria;Sub-Saharan Africa;Lower middle income
+2009;6,2;Nigeria;Sub-Saharan Africa;Lower middle income
+2010;6,3;Nigeria;Sub-Saharan Africa;Lower middle income
+2011;6,4;Nigeria;Sub-Saharan Africa;Lower middle income
+2012;6,5;Nigeria;Sub-Saharan Africa;Lower middle income
+2013;6,7;Nigeria;Sub-Saharan Africa;Lower middle income
+2014;7,3;Nigeria;Sub-Saharan Africa;Lower middle income
+2015;7,9;Nigeria;Sub-Saharan Africa;Lower middle income
+2000;2,5;Norway;Europe & Central Asia;High income
+2001;2,5;Norway;Europe & Central Asia;High income
+2002;2,5;Norway;Europe & Central Asia;High income
+2003;2,5;Norway;Europe & Central Asia;High income
+2004;2,5;Norway;Europe & Central Asia;High income
+2005;2,5;Norway;Europe & Central Asia;High income
+2006;2,5;Norway;Europe & Central Asia;High income
+2007;2,5;Norway;Europe & Central Asia;High income
+2008;2,5;Norway;Europe & Central Asia;High income
+2009;2,5;Norway;Europe & Central Asia;High income
+2010;2,5;Norway;Europe & Central Asia;High income
+2011;2,5;Norway;Europe & Central Asia;High income
+2012;2,5;Norway;Europe & Central Asia;High income
+2013;2,5;Norway;Europe & Central Asia;High income
+2014;2,5;Norway;Europe & Central Asia;High income
+2015;2,5;Norway;Europe & Central Asia;High income
+2000;11,8;Oman;Middle East & North Africa;High income
+2001;11,4;Oman;Middle East & North Africa;High income
+2002;11,5;Oman;Middle East & North Africa;High income
+2003;11,3;Oman;Middle East & North Africa;High income
+2004;10,9;Oman;Middle East & North Africa;High income
+2005;10;Oman;Middle East & North Africa;High income
+2006;9;Oman;Middle East & North Africa;High income
+2007;7,9;Oman;Middle East & North Africa;High income
+2008;6,7;Oman;Middle East & North Africa;High income
+2009;5,8;Oman;Middle East & North Africa;High income
+2010;5,4;Oman;Middle East & North Africa;High income
+2011;5,2;Oman;Middle East & North Africa;High income
+2012;5,2;Oman;Middle East & North Africa;High income
+2013;5,3;Oman;Middle East & North Africa;High income
+2014;5,7;Oman;Middle East & North Africa;High income
+2015;6,2;Oman;Middle East & North Africa;High income
+2000;23,4;Pakistan;South Asia;Lower middle income
+2001;24,8;Pakistan;South Asia;Lower middle income
+2002;25,7;Pakistan;South Asia;Lower middle income
+2003;25,5;Pakistan;South Asia;Lower middle income
+2004;24,5;Pakistan;South Asia;Lower middle income
+2005;23,3;Pakistan;South Asia;Lower middle income
+2006;22,4;Pakistan;South Asia;Lower middle income
+2007;21,7;Pakistan;South Asia;Lower middle income
+2008;21,3;Pakistan;South Asia;Lower middle income
+2009;21,1;Pakistan;South Asia;Lower middle income
+2010;21,1;Pakistan;South Asia;Lower middle income
+2011;21;Pakistan;South Asia;Lower middle income
+2012;21;Pakistan;South Asia;Lower middle income
+2013;20,8;Pakistan;South Asia;Lower middle income
+2014;20,7;Pakistan;South Asia;Lower middle income
+2015;19,9;Pakistan;South Asia;Lower middle income
+2000;27,7;Panama;Latin America & Caribbean;High income
+2001;26,2;Panama;Latin America & Caribbean;High income
+2002;24,3;Panama;Latin America & Caribbean;High income
+2003;23,4;Panama;Latin America & Caribbean;High income
+2004;23,9;Panama;Latin America & Caribbean;High income
+2005;23,1;Panama;Latin America & Caribbean;High income
+2006;21,2;Panama;Latin America & Caribbean;High income
+2007;18,5;Panama;Latin America & Caribbean;High income
+2008;16,5;Panama;Latin America & Caribbean;High income
+2009;14,9;Panama;Latin America & Caribbean;High income
+2010;13,4;Panama;Latin America & Caribbean;High income
+2011;11,9;Panama;Latin America & Caribbean;High income
+2012;10,7;Panama;Latin America & Caribbean;High income
+2013;9,9;Panama;Latin America & Caribbean;High income
+2014;9,5;Panama;Latin America & Caribbean;High income
+2015;9,3;Panama;Latin America & Caribbean;High income
+2000;12,9;Paraguay;Latin America & Caribbean;Upper middle income
+2001;12,2;Paraguay;Latin America & Caribbean;Upper middle income
+2002;11,5;Paraguay;Latin America & Caribbean;Upper middle income
+2003;11;Paraguay;Latin America & Caribbean;Upper middle income
+2004;11,2;Paraguay;Latin America & Caribbean;Upper middle income
+2005;11,9;Paraguay;Latin America & Caribbean;Upper middle income
+2006;12,4;Paraguay;Latin America & Caribbean;Upper middle income
+2007;12,6;Paraguay;Latin America & Caribbean;Upper middle income
+2008;12,8;Paraguay;Latin America & Caribbean;Upper middle income
+2009;12,7;Paraguay;Latin America & Caribbean;Upper middle income
+2010;12,2;Paraguay;Latin America & Caribbean;Upper middle income
+2011;11,9;Paraguay;Latin America & Caribbean;Upper middle income
+2012;12;Paraguay;Latin America & Caribbean;Upper middle income
+2013;12,3;Paraguay;Latin America & Caribbean;Upper middle income
+2014;12,4;Paraguay;Latin America & Caribbean;Upper middle income
+2015;12;Paraguay;Latin America & Caribbean;Upper middle income
+2000;21,8;Peru;Latin America & Caribbean;Upper middle income
+2001;21,7;Peru;Latin America & Caribbean;Upper middle income
+2002;22,3;Peru;Latin America & Caribbean;Upper middle income
+2003;22,6;Peru;Latin America & Caribbean;Upper middle income
+2004;21,6;Peru;Latin America & Caribbean;Upper middle income
+2005;19,6;Peru;Latin America & Caribbean;Upper middle income
+2006;17,6;Peru;Latin America & Caribbean;Upper middle income
+2007;15,7;Peru;Latin America & Caribbean;Upper middle income
+2008;14,2;Peru;Latin America & Caribbean;Upper middle income
+2009;12,6;Peru;Latin America & Caribbean;Upper middle income
+2010;11,2;Peru;Latin America & Caribbean;Upper middle income
+2011;10,1;Peru;Latin America & Caribbean;Upper middle income
+2012;9;Peru;Latin America & Caribbean;Upper middle income
+2013;8,3;Peru;Latin America & Caribbean;Upper middle income
+2014;7,6;Peru;Latin America & Caribbean;Upper middle income
+2015;7,9;Peru;Latin America & Caribbean;Upper middle income
+2000;20,4;Philippines;East Asia & Pacific;Lower middle income
+2001;19,7;Philippines;East Asia & Pacific;Lower middle income
+2002;19,1;Philippines;East Asia & Pacific;Lower middle income
+2003;18,5;Philippines;East Asia & Pacific;Lower middle income
+2004;17,4;Philippines;East Asia & Pacific;Lower middle income
+2005;16,3;Philippines;East Asia & Pacific;Lower middle income
+2006;15,2;Philippines;East Asia & Pacific;Lower middle income
+2007;14,1;Philippines;East Asia & Pacific;Lower middle income
+2008;13,3;Philippines;East Asia & Pacific;Lower middle income
+2009;13,1;Philippines;East Asia & Pacific;Lower middle income
+2010;13,4;Philippines;East Asia & Pacific;Lower middle income
+2011;13,9;Philippines;East Asia & Pacific;Lower middle income
+2012;14,3;Philippines;East Asia & Pacific;Lower middle income
+2013;14,4;Philippines;East Asia & Pacific;Lower middle income
+2014;14,3;Philippines;East Asia & Pacific;Lower middle income
+2015;13,8;Philippines;East Asia & Pacific;Lower middle income
+2000;2,5;Poland;Europe & Central Asia;High income
+2001;2,5;Poland;Europe & Central Asia;High income
+2002;2,5;Poland;Europe & Central Asia;High income
+2003;2,5;Poland;Europe & Central Asia;High income
+2004;2,5;Poland;Europe & Central Asia;High income
+2005;2,5;Poland;Europe & Central Asia;High income
+2006;2,5;Poland;Europe & Central Asia;High income
+2007;2,5;Poland;Europe & Central Asia;High income
+2008;2,5;Poland;Europe & Central Asia;High income
+2009;2,5;Poland;Europe & Central Asia;High income
+2010;2,5;Poland;Europe & Central Asia;High income
+2011;2,5;Poland;Europe & Central Asia;High income
+2012;2,5;Poland;Europe & Central Asia;High income
+2013;2,5;Poland;Europe & Central Asia;High income
+2014;2,5;Poland;Europe & Central Asia;High income
+2015;2,5;Poland;Europe & Central Asia;High income
+2000;2,5;Portugal;Europe & Central Asia;High income
+2001;2,5;Portugal;Europe & Central Asia;High income
+2002;2,5;Portugal;Europe & Central Asia;High income
+2003;2,5;Portugal;Europe & Central Asia;High income
+2004;2,5;Portugal;Europe & Central Asia;High income
+2005;2,5;Portugal;Europe & Central Asia;High income
+2006;2,5;Portugal;Europe & Central Asia;High income
+2007;2,5;Portugal;Europe & Central Asia;High income
+2008;2,5;Portugal;Europe & Central Asia;High income
+2009;2,5;Portugal;Europe & Central Asia;High income
+2010;2,5;Portugal;Europe & Central Asia;High income
+2011;2,5;Portugal;Europe & Central Asia;High income
+2012;2,5;Portugal;Europe & Central Asia;High income
+2013;2,5;Portugal;Europe & Central Asia;High income
+2014;2,5;Portugal;Europe & Central Asia;High income
+2015;2,5;Portugal;Europe & Central Asia;High income
+2000;2,5;Romania;Europe & Central Asia;Upper middle income
+2001;2,5;Romania;Europe & Central Asia;Upper middle income
+2002;2,5;Romania;Europe & Central Asia;Upper middle income
+2003;2,5;Romania;Europe & Central Asia;Upper middle income
+2004;2,5;Romania;Europe & Central Asia;Upper middle income
+2005;2,5;Romania;Europe & Central Asia;Upper middle income
+2006;2,5;Romania;Europe & Central Asia;Upper middle income
+2007;2,5;Romania;Europe & Central Asia;Upper middle income
+2008;2,5;Romania;Europe & Central Asia;Upper middle income
+2009;2,5;Romania;Europe & Central Asia;Upper middle income
+2010;2,5;Romania;Europe & Central Asia;Upper middle income
+2011;2,5;Romania;Europe & Central Asia;Upper middle income
+2012;2,5;Romania;Europe & Central Asia;Upper middle income
+2013;2,5;Romania;Europe & Central Asia;Upper middle income
+2014;2,5;Romania;Europe & Central Asia;Upper middle income
+2015;2,5;Romania;Europe & Central Asia;Upper middle income
+2000;5,1;Russian Federation;Europe & Central Asia;Upper middle income
+2001;4,4;Russian Federation;Europe & Central Asia;Upper middle income
+2002;3,7;Russian Federation;Europe & Central Asia;Upper middle income
+2003;3,1;Russian Federation;Europe & Central Asia;Upper middle income
+2004;2,6;Russian Federation;Europe & Central Asia;Upper middle income
+2005;2,5;Russian Federation;Europe & Central Asia;Upper middle income
+2006;2,5;Russian Federation;Europe & Central Asia;Upper middle income
+2007;2,5;Russian Federation;Europe & Central Asia;Upper middle income
+2008;2,5;Russian Federation;Europe & Central Asia;Upper middle income
+2009;2,5;Russian Federation;Europe & Central Asia;Upper middle income
+2010;2,5;Russian Federation;Europe & Central Asia;Upper middle income
+2011;2,5;Russian Federation;Europe & Central Asia;Upper middle income
+2012;2,5;Russian Federation;Europe & Central Asia;Upper middle income
+2013;2,5;Russian Federation;Europe & Central Asia;Upper middle income
+2014;2,5;Russian Federation;Europe & Central Asia;Upper middle income
+2015;2,5;Russian Federation;Europe & Central Asia;Upper middle income
+2000;54,9;Rwanda;Sub-Saharan Africa;Low income
+2001;49,2;Rwanda;Sub-Saharan Africa;Low income
+2002;45,3;Rwanda;Sub-Saharan Africa;Low income
+2003;44,7;Rwanda;Sub-Saharan Africa;Low income
+2004;44,8;Rwanda;Sub-Saharan Africa;Low income
+2005;44,5;Rwanda;Sub-Saharan Africa;Low income
+2006;43,3;Rwanda;Sub-Saharan Africa;Low income
+2007;41,2;Rwanda;Sub-Saharan Africa;Low income
+2008;38,7;Rwanda;Sub-Saharan Africa;Low income
+2009;36,1;Rwanda;Sub-Saharan Africa;Low income
+2010;34,2;Rwanda;Sub-Saharan Africa;Low income
+2011;33,3;Rwanda;Sub-Saharan Africa;Low income
+2012;33,6;Rwanda;Sub-Saharan Africa;Low income
+2013;35,6;Rwanda;Sub-Saharan Africa;Low income
+2014;38,5;Rwanda;Sub-Saharan Africa;Low income
+2015;41,1;Rwanda;Sub-Saharan Africa;Low income
+2000;5,3;Samoa;East Asia & Pacific;Upper middle income
+2001;4,4;Samoa;East Asia & Pacific;Upper middle income
+2002;4,1;Samoa;East Asia & Pacific;Upper middle income
+2003;3,8;Samoa;East Asia & Pacific;Upper middle income
+2004;3,6;Samoa;East Asia & Pacific;Upper middle income
+2005;3,5;Samoa;East Asia & Pacific;Upper middle income
+2006;3,5;Samoa;East Asia & Pacific;Upper middle income
+2007;3,6;Samoa;East Asia & Pacific;Upper middle income
+2008;3,5;Samoa;East Asia & Pacific;Upper middle income
+2009;3,5;Samoa;East Asia & Pacific;Upper middle income
+2010;3,4;Samoa;East Asia & Pacific;Upper middle income
+2011;3,3;Samoa;East Asia & Pacific;Upper middle income
+2012;3,1;Samoa;East Asia & Pacific;Upper middle income
+2013;3;Samoa;East Asia & Pacific;Upper middle income
+2014;3;Samoa;East Asia & Pacific;Upper middle income
+2015;3,2;Samoa;East Asia & Pacific;Upper middle income
+2000;18,1;Sao Tome and Principe;Sub-Saharan Africa;Lower middle income
+2001;14,8;Sao Tome and Principe;Sub-Saharan Africa;Lower middle income
+2002;12,5;Sao Tome and Principe;Sub-Saharan Africa;Lower middle income
+2003;11,2;Sao Tome and Principe;Sub-Saharan Africa;Lower middle income
+2004;10,2;Sao Tome and Principe;Sub-Saharan Africa;Lower middle income
+2005;9,6;Sao Tome and Principe;Sub-Saharan Africa;Lower middle income
+2006;9,7;Sao Tome and Principe;Sub-Saharan Africa;Lower middle income
+2007;10,4;Sao Tome and Principe;Sub-Saharan Africa;Lower middle income
+2008;11,6;Sao Tome and Principe;Sub-Saharan Africa;Lower middle income
+2009;13,3;Sao Tome and Principe;Sub-Saharan Africa;Lower middle income
+2010;15;Sao Tome and Principe;Sub-Saharan Africa;Lower middle income
+2011;15,9;Sao Tome and Principe;Sub-Saharan Africa;Lower middle income
+2012;15,4;Sao Tome and Principe;Sub-Saharan Africa;Lower middle income
+2013;14,2;Sao Tome and Principe;Sub-Saharan Africa;Lower middle income
+2014;13,2;Sao Tome and Principe;Sub-Saharan Africa;Lower middle income
+2015;13,5;Sao Tome and Principe;Sub-Saharan Africa;Lower middle income
+2000;6,2;Saudi Arabia;Middle East & North Africa;High income
+2001;6,6;Saudi Arabia;Middle East & North Africa;High income
+2002;7,1;Saudi Arabia;Middle East & North Africa;High income
+2003;7,7;Saudi Arabia;Middle East & North Africa;High income
+2004;8,1;Saudi Arabia;Middle East & North Africa;High income
+2005;8;Saudi Arabia;Middle East & North Africa;High income
+2006;7,9;Saudi Arabia;Middle East & North Africa;High income
+2007;7,8;Saudi Arabia;Middle East & North Africa;High income
+2008;7,8;Saudi Arabia;Middle East & North Africa;High income
+2009;7,6;Saudi Arabia;Middle East & North Africa;High income
+2010;6,9;Saudi Arabia;Middle East & North Africa;High income
+2011;6,3;Saudi Arabia;Middle East & North Africa;High income
+2012;5,6;Saudi Arabia;Middle East & North Africa;High income
+2013;5,1;Saudi Arabia;Middle East & North Africa;High income
+2014;4,8;Saudi Arabia;Middle East & North Africa;High income
+2015;4,4;Saudi Arabia;Middle East & North Africa;High income
+2000;28,5;Senegal;Sub-Saharan Africa;Low income
+2001;27,3;Senegal;Sub-Saharan Africa;Low income
+2002;26,4;Senegal;Sub-Saharan Africa;Low income
+2003;24,8;Senegal;Sub-Saharan Africa;Low income
+2004;23,1;Senegal;Sub-Saharan Africa;Low income
+2005;21,3;Senegal;Sub-Saharan Africa;Low income
+2006;19;Senegal;Sub-Saharan Africa;Low income
+2007;16,6;Senegal;Sub-Saharan Africa;Low income
+2008;14,5;Senegal;Sub-Saharan Africa;Low income
+2009;13,5;Senegal;Sub-Saharan Africa;Low income
+2010;13;Senegal;Sub-Saharan Africa;Low income
+2011;12,8;Senegal;Sub-Saharan Africa;Low income
+2012;12,5;Senegal;Sub-Saharan Africa;Low income
+2013;12,1;Senegal;Sub-Saharan Africa;Low income
+2014;11,6;Senegal;Sub-Saharan Africa;Low income
+2015;11,3;Senegal;Sub-Saharan Africa;Low income
+2000;;Serbia;Europe & Central Asia;Upper middle income
+2001;;Serbia;Europe & Central Asia;Upper middle income
+2002;;Serbia;Europe & Central Asia;Upper middle income
+2003;;Serbia;Europe & Central Asia;Upper middle income
+2004;;Serbia;Europe & Central Asia;Upper middle income
+2005;;Serbia;Europe & Central Asia;Upper middle income
+2006;6;Serbia;Europe & Central Asia;Upper middle income
+2007;6;Serbia;Europe & Central Asia;Upper middle income
+2008;5,9;Serbia;Europe & Central Asia;Upper middle income
+2009;5,9;Serbia;Europe & Central Asia;Upper middle income
+2010;5,9;Serbia;Europe & Central Asia;Upper middle income
+2011;6;Serbia;Europe & Central Asia;Upper middle income
+2012;6;Serbia;Europe & Central Asia;Upper middle income
+2013;5,9;Serbia;Europe & Central Asia;Upper middle income
+2014;5,7;Serbia;Europe & Central Asia;Upper middle income
+2015;5,6;Serbia;Europe & Central Asia;Upper middle income
+2000;39,9;Sierra Leone;Sub-Saharan Africa;Low income
+2001;40,6;Sierra Leone;Sub-Saharan Africa;Low income
+2002;40,3;Sierra Leone;Sub-Saharan Africa;Low income
+2003;39,8;Sierra Leone;Sub-Saharan Africa;Low income
+2004;39;Sierra Leone;Sub-Saharan Africa;Low income
+2005;37,2;Sierra Leone;Sub-Saharan Africa;Low income
+2006;34,8;Sierra Leone;Sub-Saharan Africa;Low income
+2007;32,3;Sierra Leone;Sub-Saharan Africa;Low income
+2008;30,6;Sierra Leone;Sub-Saharan Africa;Low income
+2009;28,9;Sierra Leone;Sub-Saharan Africa;Low income
+2010;27,2;Sierra Leone;Sub-Saharan Africa;Low income
+2011;25,4;Sierra Leone;Sub-Saharan Africa;Low income
+2012;24,5;Sierra Leone;Sub-Saharan Africa;Low income
+2013;24,6;Sierra Leone;Sub-Saharan Africa;Low income
+2014;25,7;Sierra Leone;Sub-Saharan Africa;Low income
+2015;30,9;Sierra Leone;Sub-Saharan Africa;Low income
+2000;5,9;Slovak Republic;Europe & Central Asia;High income
+2001;6,5;Slovak Republic;Europe & Central Asia;High income
+2002;6,7;Slovak Republic;Europe & Central Asia;High income
+2003;6,5;Slovak Republic;Europe & Central Asia;High income
+2004;6,3;Slovak Republic;Europe & Central Asia;High income
+2005;6,2;Slovak Republic;Europe & Central Asia;High income
+2006;6,1;Slovak Republic;Europe & Central Asia;High income
+2007;5,9;Slovak Republic;Europe & Central Asia;High income
+2008;5,4;Slovak Republic;Europe & Central Asia;High income
+2009;4,8;Slovak Republic;Europe & Central Asia;High income
+2010;4,3;Slovak Republic;Europe & Central Asia;High income
+2011;4,1;Slovak Republic;Europe & Central Asia;High income
+2012;4;Slovak Republic;Europe & Central Asia;High income
+2013;3,7;Slovak Republic;Europe & Central Asia;High income
+2014;3,3;Slovak Republic;Europe & Central Asia;High income
+2015;3,1;Slovak Republic;Europe & Central Asia;High income
+2000;2,5;Slovenia;Europe & Central Asia;High income
+2001;2,5;Slovenia;Europe & Central Asia;High income
+2002;2,5;Slovenia;Europe & Central Asia;High income
+2003;2,5;Slovenia;Europe & Central Asia;High income
+2004;2,5;Slovenia;Europe & Central Asia;High income
+2005;2,5;Slovenia;Europe & Central Asia;High income
+2006;2,5;Slovenia;Europe & Central Asia;High income
+2007;2,5;Slovenia;Europe & Central Asia;High income
+2008;2,5;Slovenia;Europe & Central Asia;High income
+2009;2,5;Slovenia;Europe & Central Asia;High income
+2010;2,5;Slovenia;Europe & Central Asia;High income
+2011;2,5;Slovenia;Europe & Central Asia;High income
+2012;2,5;Slovenia;Europe & Central Asia;High income
+2013;2,5;Slovenia;Europe & Central Asia;High income
+2014;2,5;Slovenia;Europe & Central Asia;High income
+2015;2,5;Slovenia;Europe & Central Asia;High income
+2000;15,1;Solomon Islands;East Asia & Pacific;Lower middle income
+2001;14,6;Solomon Islands;East Asia & Pacific;Lower middle income
+2002;13,6;Solomon Islands;East Asia & Pacific;Lower middle income
+2003;12,9;Solomon Islands;East Asia & Pacific;Lower middle income
+2004;12,3;Solomon Islands;East Asia & Pacific;Lower middle income
+2005;11,9;Solomon Islands;East Asia & Pacific;Lower middle income
+2006;11,4;Solomon Islands;East Asia & Pacific;Lower middle income
+2007;11,2;Solomon Islands;East Asia & Pacific;Lower middle income
+2008;10,9;Solomon Islands;East Asia & Pacific;Lower middle income
+2009;10,7;Solomon Islands;East Asia & Pacific;Lower middle income
+2010;10,6;Solomon Islands;East Asia & Pacific;Lower middle income
+2011;11,2;Solomon Islands;East Asia & Pacific;Lower middle income
+2012;12,2;Solomon Islands;East Asia & Pacific;Lower middle income
+2013;13,2;Solomon Islands;East Asia & Pacific;Lower middle income
+2014;13,8;Solomon Islands;East Asia & Pacific;Lower middle income
+2015;13,9;Solomon Islands;East Asia & Pacific;Lower middle income
+2000;4,7;South Africa;Sub-Saharan Africa;Upper middle income
+2001;4,5;South Africa;Sub-Saharan Africa;Upper middle income
+2002;4,3;South Africa;Sub-Saharan Africa;Upper middle income
+2003;4,2;South Africa;Sub-Saharan Africa;Upper middle income
+2004;4,2;South Africa;Sub-Saharan Africa;Upper middle income
+2005;4,2;South Africa;Sub-Saharan Africa;Upper middle income
+2006;4,4;South Africa;Sub-Saharan Africa;Upper middle income
+2007;4,5;South Africa;Sub-Saharan Africa;Upper middle income
+2008;4,4;South Africa;Sub-Saharan Africa;Upper middle income
+2009;4,2;South Africa;Sub-Saharan Africa;Upper middle income
+2010;3,9;South Africa;Sub-Saharan Africa;Upper middle income
+2011;3,7;South Africa;Sub-Saharan Africa;Upper middle income
+2012;3,6;South Africa;Sub-Saharan Africa;Upper middle income
+2013;3,8;South Africa;Sub-Saharan Africa;Upper middle income
+2014;4;South Africa;Sub-Saharan Africa;Upper middle income
+2015;4,6;South Africa;Sub-Saharan Africa;Upper middle income
+2000;2,5;Spain;Europe & Central Asia;High income
+2001;2,5;Spain;Europe & Central Asia;High income
+2002;2,5;Spain;Europe & Central Asia;High income
+2003;2,5;Spain;Europe & Central Asia;High income
+2004;2,5;Spain;Europe & Central Asia;High income
+2005;2,5;Spain;Europe & Central Asia;High income
+2006;2,5;Spain;Europe & Central Asia;High income
+2007;2,5;Spain;Europe & Central Asia;High income
+2008;2,5;Spain;Europe & Central Asia;High income
+2009;2,5;Spain;Europe & Central Asia;High income
+2010;2,5;Spain;Europe & Central Asia;High income
+2011;2,5;Spain;Europe & Central Asia;High income
+2012;2,5;Spain;Europe & Central Asia;High income
+2013;2,5;Spain;Europe & Central Asia;High income
+2014;2,5;Spain;Europe & Central Asia;High income
+2015;2,5;Spain;Europe & Central Asia;High income
+2000;29,6;Sri Lanka;South Asia;Lower middle income
+2001;29,6;Sri Lanka;South Asia;Lower middle income
+2002;29,9;Sri Lanka;South Asia;Lower middle income
+2003;29,9;Sri Lanka;South Asia;Lower middle income
+2004;29,8;Sri Lanka;South Asia;Lower middle income
+2005;29,4;Sri Lanka;South Asia;Lower middle income
+2006;28,8;Sri Lanka;South Asia;Lower middle income
+2007;28;Sri Lanka;South Asia;Lower middle income
+2008;27,1;Sri Lanka;South Asia;Lower middle income
+2009;26,4;Sri Lanka;South Asia;Lower middle income
+2010;25,7;Sri Lanka;South Asia;Lower middle income
+2011;25,1;Sri Lanka;South Asia;Lower middle income
+2012;24,5;Sri Lanka;South Asia;Lower middle income
+2013;23,7;Sri Lanka;South Asia;Lower middle income
+2014;23;Sri Lanka;South Asia;Lower middle income
+2015;22,1;Sri Lanka;South Asia;Lower middle income
+2000;11,5;St. Lucia;Latin America & Caribbean;Upper middle income
+2001;12,3;St. Lucia;Latin America & Caribbean;Upper middle income
+2002;12,8;St. Lucia;Latin America & Caribbean;Upper middle income
+2003;13,3;St. Lucia;Latin America & Caribbean;Upper middle income
+2004;13,6;St. Lucia;Latin America & Caribbean;Upper middle income
+2005;14,2;St. Lucia;Latin America & Caribbean;Upper middle income
+2006;15,2;St. Lucia;Latin America & Caribbean;Upper middle income
+2007;16,2;St. Lucia;Latin America & Caribbean;Upper middle income
+2008;17;St. Lucia;Latin America & Caribbean;Upper middle income
+2009;17,2;St. Lucia;Latin America & Caribbean;Upper middle income
+2010;17,2;St. Lucia;Latin America & Caribbean;Upper middle income
+2011;17,2;St. Lucia;Latin America & Caribbean;Upper middle income
+2012;17,3;St. Lucia;Latin America & Caribbean;Upper middle income
+2013;17,2;St. Lucia;Latin America & Caribbean;Upper middle income
+2014;17;St. Lucia;Latin America & Caribbean;Upper middle income
+2015;17;St. Lucia;Latin America & Caribbean;Upper middle income
+2000;16,7;St. Vincent and the Grenadines;Latin America & Caribbean;Upper middle income
+2001;14,8;St. Vincent and the Grenadines;Latin America & Caribbean;Upper middle income
+2002;12,7;St. Vincent and the Grenadines;Latin America & Caribbean;Upper middle income
+2003;11,1;St. Vincent and the Grenadines;Latin America & Caribbean;Upper middle income
+2004;9,8;St. Vincent and the Grenadines;Latin America & Caribbean;Upper middle income
+2005;9,1;St. Vincent and the Grenadines;Latin America & Caribbean;Upper middle income
+2006;8,4;St. Vincent and the Grenadines;Latin America & Caribbean;Upper middle income
+2007;7,8;St. Vincent and the Grenadines;Latin America & Caribbean;Upper middle income
+2008;7,4;St. Vincent and the Grenadines;Latin America & Caribbean;Upper middle income
+2009;7;St. Vincent and the Grenadines;Latin America & Caribbean;Upper middle income
+2010;6,7;St. Vincent and the Grenadines;Latin America & Caribbean;Upper middle income
+2011;6,4;St. Vincent and the Grenadines;Latin America & Caribbean;Upper middle income
+2012;6,1;St. Vincent and the Grenadines;Latin America & Caribbean;Upper middle income
+2013;6;St. Vincent and the Grenadines;Latin America & Caribbean;Upper middle income
+2014;6;St. Vincent and the Grenadines;Latin America & Caribbean;Upper middle income
+2015;6;St. Vincent and the Grenadines;Latin America & Caribbean;Upper middle income
+2000;12,9;Suriname;Latin America & Caribbean;Upper middle income
+2001;12,9;Suriname;Latin America & Caribbean;Upper middle income
+2002;12,6;Suriname;Latin America & Caribbean;Upper middle income
+2003;12,3;Suriname;Latin America & Caribbean;Upper middle income
+2004;11,8;Suriname;Latin America & Caribbean;Upper middle income
+2005;11,1;Suriname;Latin America & Caribbean;Upper middle income
+2006;10,5;Suriname;Latin America & Caribbean;Upper middle income
+2007;9,8;Suriname;Latin America & Caribbean;Upper middle income
+2008;9,1;Suriname;Latin America & Caribbean;Upper middle income
+2009;8,4;Suriname;Latin America & Caribbean;Upper middle income
+2010;8;Suriname;Latin America & Caribbean;Upper middle income
+2011;8,1;Suriname;Latin America & Caribbean;Upper middle income
+2012;8,3;Suriname;Latin America & Caribbean;Upper middle income
+2013;8,3;Suriname;Latin America & Caribbean;Upper middle income
+2014;8,1;Suriname;Latin America & Caribbean;Upper middle income
+2015;7,9;Suriname;Latin America & Caribbean;Upper middle income
+2000;19,3;Swaziland;Sub-Saharan Africa;Lower middle income
+2001;17,5;Swaziland;Sub-Saharan Africa;Lower middle income
+2002;16,2;Swaziland;Sub-Saharan Africa;Lower middle income
+2003;15,5;Swaziland;Sub-Saharan Africa;Lower middle income
+2004;15,7;Swaziland;Sub-Saharan Africa;Lower middle income
+2005;17,3;Swaziland;Sub-Saharan Africa;Lower middle income
+2006;19,5;Swaziland;Sub-Saharan Africa;Lower middle income
+2007;21,5;Swaziland;Sub-Saharan Africa;Lower middle income
+2008;23;Swaziland;Sub-Saharan Africa;Lower middle income
+2009;23,7;Swaziland;Sub-Saharan Africa;Lower middle income
+2010;23,7;Swaziland;Sub-Saharan Africa;Lower middle income
+2011;23,1;Swaziland;Sub-Saharan Africa;Lower middle income
+2012;22,4;Swaziland;Sub-Saharan Africa;Lower middle income
+2013;21,5;Swaziland;Sub-Saharan Africa;Lower middle income
+2014;20,5;Swaziland;Sub-Saharan Africa;Lower middle income
+2015;19,6;Swaziland;Sub-Saharan Africa;Lower middle income
+2000;2,5;Sweden;Europe & Central Asia;High income
+2001;2,5;Sweden;Europe & Central Asia;High income
+2002;2,5;Sweden;Europe & Central Asia;High income
+2003;2,5;Sweden;Europe & Central Asia;High income
+2004;2,5;Sweden;Europe & Central Asia;High income
+2005;2,5;Sweden;Europe & Central Asia;High income
+2006;2,5;Sweden;Europe & Central Asia;High income
+2007;2,5;Sweden;Europe & Central Asia;High income
+2008;2,5;Sweden;Europe & Central Asia;High income
+2009;2,5;Sweden;Europe & Central Asia;High income
+2010;2,5;Sweden;Europe & Central Asia;High income
+2011;2,5;Sweden;Europe & Central Asia;High income
+2012;2,5;Sweden;Europe & Central Asia;High income
+2013;2,5;Sweden;Europe & Central Asia;High income
+2014;2,5;Sweden;Europe & Central Asia;High income
+2015;2,5;Sweden;Europe & Central Asia;High income
+2000;2,5;Switzerland;Europe & Central Asia;High income
+2001;2,5;Switzerland;Europe & Central Asia;High income
+2002;2,5;Switzerland;Europe & Central Asia;High income
+2003;2,5;Switzerland;Europe & Central Asia;High income
+2004;2,5;Switzerland;Europe & Central Asia;High income
+2005;2,5;Switzerland;Europe & Central Asia;High income
+2006;2,5;Switzerland;Europe & Central Asia;High income
+2007;2,5;Switzerland;Europe & Central Asia;High income
+2008;2,5;Switzerland;Europe & Central Asia;High income
+2009;2,5;Switzerland;Europe & Central Asia;High income
+2010;2,5;Switzerland;Europe & Central Asia;High income
+2011;2,5;Switzerland;Europe & Central Asia;High income
+2012;2,5;Switzerland;Europe & Central Asia;High income
+2013;2,5;Switzerland;Europe & Central Asia;High income
+2014;2,5;Switzerland;Europe & Central Asia;High income
+2015;2,5;Switzerland;Europe & Central Asia;High income
+2000;42,4;Tajikistan;Europe & Central Asia;Low income
+2001;43,2;Tajikistan;Europe & Central Asia;Low income
+2002;44,2;Tajikistan;Europe & Central Asia;Low income
+2003;44,2;Tajikistan;Europe & Central Asia;Low income
+2004;43,2;Tajikistan;Europe & Central Asia;Low income
+2005;41,5;Tajikistan;Europe & Central Asia;Low income
+2006;40,2;Tajikistan;Europe & Central Asia;Low income
+2007;39,2;Tajikistan;Europe & Central Asia;Low income
+2008;38,6;Tajikistan;Europe & Central Asia;Low income
+2009;38,3;Tajikistan;Europe & Central Asia;Low income
+2010;37,8;Tajikistan;Europe & Central Asia;Low income
+2011;36,8;Tajikistan;Europe & Central Asia;Low income
+2012;34,3;Tajikistan;Europe & Central Asia;Low income
+2013;32;Tajikistan;Europe & Central Asia;Low income
+2014;30,5;Tajikistan;Europe & Central Asia;Low income
+2015;30,1;Tajikistan;Europe & Central Asia;Low income
+2000;36,7;Tanzania;Sub-Saharan Africa;Low income
+2001;37,1;Tanzania;Sub-Saharan Africa;Low income
+2002;37;Tanzania;Sub-Saharan Africa;Low income
+2003;37;Tanzania;Sub-Saharan Africa;Low income
+2004;35,9;Tanzania;Sub-Saharan Africa;Low income
+2005;34,6;Tanzania;Sub-Saharan Africa;Low income
+2006;33,6;Tanzania;Sub-Saharan Africa;Low income
+2007;33,3;Tanzania;Sub-Saharan Africa;Low income
+2008;34,2;Tanzania;Sub-Saharan Africa;Low income
+2009;34,6;Tanzania;Sub-Saharan Africa;Low income
+2010;34,7;Tanzania;Sub-Saharan Africa;Low income
+2011;33,6;Tanzania;Sub-Saharan Africa;Low income
+2012;32,5;Tanzania;Sub-Saharan Africa;Low income
+2013;31,4;Tanzania;Sub-Saharan Africa;Low income
+2014;30,6;Tanzania;Sub-Saharan Africa;Low income
+2015;32,3;Tanzania;Sub-Saharan Africa;Low income
+2000;18,8;Thailand;East Asia & Pacific;Upper middle income
+2001;18,3;Thailand;East Asia & Pacific;Upper middle income
+2002;17;Thailand;East Asia & Pacific;Upper middle income
+2003;15,7;Thailand;East Asia & Pacific;Upper middle income
+2004;14;Thailand;East Asia & Pacific;Upper middle income
+2005;12,3;Thailand;East Asia & Pacific;Upper middle income
+2006;10,9;Thailand;East Asia & Pacific;Upper middle income
+2007;10,3;Thailand;East Asia & Pacific;Upper middle income
+2008;10;Thailand;East Asia & Pacific;Upper middle income
+2009;9,8;Thailand;East Asia & Pacific;Upper middle income
+2010;9,3;Thailand;East Asia & Pacific;Upper middle income
+2011;8,8;Thailand;East Asia & Pacific;Upper middle income
+2012;8,5;Thailand;East Asia & Pacific;Upper middle income
+2013;8,5;Thailand;East Asia & Pacific;Upper middle income
+2014;8,5;Thailand;East Asia & Pacific;Upper middle income
+2015;9,5;Thailand;East Asia & Pacific;Upper middle income
+2000;40,8;Timor-Leste;East Asia & Pacific;Lower middle income
+2001;36;Timor-Leste;East Asia & Pacific;Lower middle income
+2002;32,2;Timor-Leste;East Asia & Pacific;Lower middle income
+2003;30,9;Timor-Leste;East Asia & Pacific;Lower middle income
+2004;31;Timor-Leste;East Asia & Pacific;Lower middle income
+2005;31,9;Timor-Leste;East Asia & Pacific;Lower middle income
+2006;32,5;Timor-Leste;East Asia & Pacific;Lower middle income
+2007;32,9;Timor-Leste;East Asia & Pacific;Lower middle income
+2008;32,9;Timor-Leste;East Asia & Pacific;Lower middle income
+2009;32,6;Timor-Leste;East Asia & Pacific;Lower middle income
+2010;31,3;Timor-Leste;East Asia & Pacific;Lower middle income
+2011;29,8;Timor-Leste;East Asia & Pacific;Lower middle income
+2012;28,2;Timor-Leste;East Asia & Pacific;Lower middle income
+2013;27,4;Timor-Leste;East Asia & Pacific;Lower middle income
+2014;27;Timor-Leste;East Asia & Pacific;Lower middle income
+2015;26,9;Timor-Leste;East Asia & Pacific;Lower middle income
+2000;30,4;Togo;Sub-Saharan Africa;Low income
+2001;29,9;Togo;Sub-Saharan Africa;Low income
+2002;29,2;Togo;Sub-Saharan Africa;Low income
+2003;28,1;Togo;Sub-Saharan Africa;Low income
+2004;26,7;Togo;Sub-Saharan Africa;Low income
+2005;25,6;Togo;Sub-Saharan Africa;Low income
+2006;24,5;Togo;Sub-Saharan Africa;Low income
+2007;23,6;Togo;Sub-Saharan Africa;Low income
+2008;22,6;Togo;Sub-Saharan Africa;Low income
+2009;21,7;Togo;Sub-Saharan Africa;Low income
+2010;20,8;Togo;Sub-Saharan Africa;Low income
+2011;19,8;Togo;Sub-Saharan Africa;Low income
+2012;18,1;Togo;Sub-Saharan Africa;Low income
+2013;15,7;Togo;Sub-Saharan Africa;Low income
+2014;13,3;Togo;Sub-Saharan Africa;Low income
+2015;11,5;Togo;Sub-Saharan Africa;Low income
+2000;11,6;Trinidad and Tobago;Latin America & Caribbean;High income
+2001;11,2;Trinidad and Tobago;Latin America & Caribbean;High income
+2002;11,3;Trinidad and Tobago;Latin America & Caribbean;High income
+2003;11,8;Trinidad and Tobago;Latin America & Caribbean;High income
+2004;12;Trinidad and Tobago;Latin America & Caribbean;High income
+2005;11,8;Trinidad and Tobago;Latin America & Caribbean;High income
+2006;11,3;Trinidad and Tobago;Latin America & Caribbean;High income
+2007;10,7;Trinidad and Tobago;Latin America & Caribbean;High income
+2008;10,4;Trinidad and Tobago;Latin America & Caribbean;High income
+2009;10,1;Trinidad and Tobago;Latin America & Caribbean;High income
+2010;9,6;Trinidad and Tobago;Latin America & Caribbean;High income
+2011;8,6;Trinidad and Tobago;Latin America & Caribbean;High income
+2012;7,5;Trinidad and Tobago;Latin America & Caribbean;High income
+2013;6,5;Trinidad and Tobago;Latin America & Caribbean;High income
+2014;5,8;Trinidad and Tobago;Latin America & Caribbean;High income
+2015;4,8;Trinidad and Tobago;Latin America & Caribbean;High income
+2000;4,9;Tunisia;Middle East & North Africa;Lower middle income
+2001;5,2;Tunisia;Middle East & North Africa;Lower middle income
+2002;5,6;Tunisia;Middle East & North Africa;Lower middle income
+2003;5,6;Tunisia;Middle East & North Africa;Lower middle income
+2004;5,6;Tunisia;Middle East & North Africa;Lower middle income
+2005;5,6;Tunisia;Middle East & North Africa;Lower middle income
+2006;5,5;Tunisia;Middle East & North Africa;Lower middle income
+2007;5,4;Tunisia;Middle East & North Africa;Lower middle income
+2008;5,2;Tunisia;Middle East & North Africa;Lower middle income
+2009;5;Tunisia;Middle East & North Africa;Lower middle income
+2010;4,8;Tunisia;Middle East & North Africa;Lower middle income
+2011;4,6;Tunisia;Middle East & North Africa;Lower middle income
+2012;4,5;Tunisia;Middle East & North Africa;Lower middle income
+2013;4,5;Tunisia;Middle East & North Africa;Lower middle income
+2014;4,5;Tunisia;Middle East & North Africa;Lower middle income
+2015;5;Tunisia;Middle East & North Africa;Lower middle income
+2000;2,5;Turkey;Europe & Central Asia;Upper middle income
+2001;2,5;Turkey;Europe & Central Asia;Upper middle income
+2002;2,5;Turkey;Europe & Central Asia;Upper middle income
+2003;2,5;Turkey;Europe & Central Asia;Upper middle income
+2004;2,5;Turkey;Europe & Central Asia;Upper middle income
+2005;2,5;Turkey;Europe & Central Asia;Upper middle income
+2006;2,5;Turkey;Europe & Central Asia;Upper middle income
+2007;2,5;Turkey;Europe & Central Asia;Upper middle income
+2008;2,5;Turkey;Europe & Central Asia;Upper middle income
+2009;2,5;Turkey;Europe & Central Asia;Upper middle income
+2010;2,5;Turkey;Europe & Central Asia;Upper middle income
+2011;2,5;Turkey;Europe & Central Asia;Upper middle income
+2012;2,5;Turkey;Europe & Central Asia;Upper middle income
+2013;2,5;Turkey;Europe & Central Asia;Upper middle income
+2014;2,5;Turkey;Europe & Central Asia;Upper middle income
+2015;2,5;Turkey;Europe & Central Asia;Upper middle income
+2000;8,2;Turkmenistan;Europe & Central Asia;Upper middle income
+2001;7,6;Turkmenistan;Europe & Central Asia;Upper middle income
+2002;6,9;Turkmenistan;Europe & Central Asia;Upper middle income
+2003;6;Turkmenistan;Europe & Central Asia;Upper middle income
+2004;5,3;Turkmenistan;Europe & Central Asia;Upper middle income
+2005;4,8;Turkmenistan;Europe & Central Asia;Upper middle income
+2006;4,6;Turkmenistan;Europe & Central Asia;Upper middle income
+2007;4,5;Turkmenistan;Europe & Central Asia;Upper middle income
+2008;4,5;Turkmenistan;Europe & Central Asia;Upper middle income
+2009;4,7;Turkmenistan;Europe & Central Asia;Upper middle income
+2010;4,9;Turkmenistan;Europe & Central Asia;Upper middle income
+2011;5,1;Turkmenistan;Europe & Central Asia;Upper middle income
+2012;5,3;Turkmenistan;Europe & Central Asia;Upper middle income
+2013;5,4;Turkmenistan;Europe & Central Asia;Upper middle income
+2014;5,5;Turkmenistan;Europe & Central Asia;Upper middle income
+2015;5,5;Turkmenistan;Europe & Central Asia;Upper middle income
+2000;27,9;Uganda;Sub-Saharan Africa;Low income
+2001;27,6;Uganda;Sub-Saharan Africa;Low income
+2002;26,6;Uganda;Sub-Saharan Africa;Low income
+2003;25,1;Uganda;Sub-Saharan Africa;Low income
+2004;23,9;Uganda;Sub-Saharan Africa;Low income
+2005;24,3;Uganda;Sub-Saharan Africa;Low income
+2006;26;Uganda;Sub-Saharan Africa;Low income
+2007;28,3;Uganda;Sub-Saharan Africa;Low income
+2008;29,8;Uganda;Sub-Saharan Africa;Low income
+2009;30,5;Uganda;Sub-Saharan Africa;Low income
+2010;31;Uganda;Sub-Saharan Africa;Low income
+2011;31,8;Uganda;Sub-Saharan Africa;Low income
+2012;32,9;Uganda;Sub-Saharan Africa;Low income
+2013;34,5;Uganda;Sub-Saharan Africa;Low income
+2014;36,4;Uganda;Sub-Saharan Africa;Low income
+2015;39;Uganda;Sub-Saharan Africa;Low income
+2000;4,5;Ukraine;Europe & Central Asia;Lower middle income
+2001;3,6;Ukraine;Europe & Central Asia;Lower middle income
+2002;2,8;Ukraine;Europe & Central Asia;Lower middle income
+2003;2,5;Ukraine;Europe & Central Asia;Lower middle income
+2004;2,5;Ukraine;Europe & Central Asia;Lower middle income
+2005;2,5;Ukraine;Europe & Central Asia;Lower middle income
+2006;2,5;Ukraine;Europe & Central Asia;Lower middle income
+2007;2,5;Ukraine;Europe & Central Asia;Lower middle income
+2008;2,5;Ukraine;Europe & Central Asia;Lower middle income
+2009;2,5;Ukraine;Europe & Central Asia;Lower middle income
+2010;2,5;Ukraine;Europe & Central Asia;Lower middle income
+2011;2,5;Ukraine;Europe & Central Asia;Lower middle income
+2012;2,5;Ukraine;Europe & Central Asia;Lower middle income
+2013;2,5;Ukraine;Europe & Central Asia;Lower middle income
+2014;2,5;Ukraine;Europe & Central Asia;Lower middle income
+2015;2,5;Ukraine;Europe & Central Asia;Lower middle income
+2000;2,5;United Arab Emirates;Middle East & North Africa;High income
+2001;2,5;United Arab Emirates;Middle East & North Africa;High income
+2002;2,5;United Arab Emirates;Middle East & North Africa;High income
+2003;2,7;United Arab Emirates;Middle East & North Africa;High income
+2004;3,4;United Arab Emirates;Middle East & North Africa;High income
+2005;4,2;United Arab Emirates;Middle East & North Africa;High income
+2006;5,1;United Arab Emirates;Middle East & North Africa;High income
+2007;5,7;United Arab Emirates;Middle East & North Africa;High income
+2008;6,1;United Arab Emirates;Middle East & North Africa;High income
+2009;6,2;United Arab Emirates;Middle East & North Africa;High income
+2010;6;United Arab Emirates;Middle East & North Africa;High income
+2011;5,6;United Arab Emirates;Middle East & North Africa;High income
+2012;5,1;United Arab Emirates;Middle East & North Africa;High income
+2013;4,6;United Arab Emirates;Middle East & North Africa;High income
+2014;4;United Arab Emirates;Middle East & North Africa;High income
+2015;3,8;United Arab Emirates;Middle East & North Africa;High income
+2000;2,5;United Kingdom;Europe & Central Asia;High income
+2001;2,5;United Kingdom;Europe & Central Asia;High income
+2002;2,5;United Kingdom;Europe & Central Asia;High income
+2003;2,5;United Kingdom;Europe & Central Asia;High income
+2004;2,5;United Kingdom;Europe & Central Asia;High income
+2005;2,5;United Kingdom;Europe & Central Asia;High income
+2006;2,5;United Kingdom;Europe & Central Asia;High income
+2007;2,5;United Kingdom;Europe & Central Asia;High income
+2008;2,5;United Kingdom;Europe & Central Asia;High income
+2009;2,5;United Kingdom;Europe & Central Asia;High income
+2010;2,5;United Kingdom;Europe & Central Asia;High income
+2011;2,5;United Kingdom;Europe & Central Asia;High income
+2012;2,5;United Kingdom;Europe & Central Asia;High income
+2013;2,5;United Kingdom;Europe & Central Asia;High income
+2014;2,5;United Kingdom;Europe & Central Asia;High income
+2015;2,5;United Kingdom;Europe & Central Asia;High income
+2000;2,5;United States;North America;High income
+2001;2,5;United States;North America;High income
+2002;2,5;United States;North America;High income
+2003;2,5;United States;North America;High income
+2004;2,5;United States;North America;High income
+2005;2,5;United States;North America;High income
+2006;2,5;United States;North America;High income
+2007;2,5;United States;North America;High income
+2008;2,5;United States;North America;High income
+2009;2,5;United States;North America;High income
+2010;2,5;United States;North America;High income
+2011;2,5;United States;North America;High income
+2012;2,5;United States;North America;High income
+2013;2,5;United States;North America;High income
+2014;2,5;United States;North America;High income
+2015;2,5;United States;North America;High income
+2000;4,2;Uruguay;Latin America & Caribbean;High income
+2001;4,1;Uruguay;Latin America & Caribbean;High income
+2002;4,1;Uruguay;Latin America & Caribbean;High income
+2003;4,2;Uruguay;Latin America & Caribbean;High income
+2004;4,3;Uruguay;Latin America & Caribbean;High income
+2005;4,3;Uruguay;Latin America & Caribbean;High income
+2006;4;Uruguay;Latin America & Caribbean;High income
+2007;3,5;Uruguay;Latin America & Caribbean;High income
+2008;3;Uruguay;Latin America & Caribbean;High income
+2009;2,7;Uruguay;Latin America & Caribbean;High income
+2010;2,5;Uruguay;Latin America & Caribbean;High income
+2011;2,5;Uruguay;Latin America & Caribbean;High income
+2012;2,5;Uruguay;Latin America & Caribbean;High income
+2013;2,5;Uruguay;Latin America & Caribbean;High income
+2014;2,5;Uruguay;Latin America & Caribbean;High income
+2015;2,5;Uruguay;Latin America & Caribbean;High income
+2000;16,4;Uzbekistan;Europe & Central Asia;Lower middle income
+2001;18,9;Uzbekistan;Europe & Central Asia;Lower middle income
+2002;19,9;Uzbekistan;Europe & Central Asia;Lower middle income
+2003;19;Uzbekistan;Europe & Central Asia;Lower middle income
+2004;17;Uzbekistan;Europe & Central Asia;Lower middle income
+2005;14,5;Uzbekistan;Europe & Central Asia;Lower middle income
+2006;12,4;Uzbekistan;Europe & Central Asia;Lower middle income
+2007;11;Uzbekistan;Europe & Central Asia;Lower middle income
+2008;10,2;Uzbekistan;Europe & Central Asia;Lower middle income
+2009;9,6;Uzbekistan;Europe & Central Asia;Lower middle income
+2010;8,8;Uzbekistan;Europe & Central Asia;Lower middle income
+2011;7,9;Uzbekistan;Europe & Central Asia;Lower middle income
+2012;7,2;Uzbekistan;Europe & Central Asia;Lower middle income
+2013;6,7;Uzbekistan;Europe & Central Asia;Lower middle income
+2014;6,5;Uzbekistan;Europe & Central Asia;Lower middle income
+2015;6,3;Uzbekistan;Europe & Central Asia;Lower middle income
+2000;8,2;Vanuatu;East Asia & Pacific;Lower middle income
+2001;8,1;Vanuatu;East Asia & Pacific;Lower middle income
+2002;8;Vanuatu;East Asia & Pacific;Lower middle income
+2003;7,7;Vanuatu;East Asia & Pacific;Lower middle income
+2004;7,4;Vanuatu;East Asia & Pacific;Lower middle income
+2005;7;Vanuatu;East Asia & Pacific;Lower middle income
+2006;6,6;Vanuatu;East Asia & Pacific;Lower middle income
+2007;6,1;Vanuatu;East Asia & Pacific;Lower middle income
+2008;5,8;Vanuatu;East Asia & Pacific;Lower middle income
+2009;5,8;Vanuatu;East Asia & Pacific;Lower middle income
+2010;5,9;Vanuatu;East Asia & Pacific;Lower middle income
+2011;6,1;Vanuatu;East Asia & Pacific;Lower middle income
+2012;6,3;Vanuatu;East Asia & Pacific;Lower middle income
+2013;6,5;Vanuatu;East Asia & Pacific;Lower middle income
+2014;6,6;Vanuatu;East Asia & Pacific;Lower middle income
+2015;6,9;Vanuatu;East Asia & Pacific;Lower middle income
+2000;16,4;Venezuela, RB;Latin America & Caribbean;Upper middle income
+2001;16,3;Venezuela, RB;Latin America & Caribbean;Upper middle income
+2002;16,9;Venezuela, RB;Latin America & Caribbean;Upper middle income
+2003;15,2;Venezuela, RB;Latin America & Caribbean;Upper middle income
+2004;13,1;Venezuela, RB;Latin America & Caribbean;Upper middle income
+2005;10,5;Venezuela, RB;Latin America & Caribbean;Upper middle income
+2006;8,4;Venezuela, RB;Latin America & Caribbean;Upper middle income
+2007;6;Venezuela, RB;Latin America & Caribbean;Upper middle income
+2008;4;Venezuela, RB;Latin America & Caribbean;Upper middle income
+2009;3,1;Venezuela, RB;Latin America & Caribbean;Upper middle income
+2010;3,1;Venezuela, RB;Latin America & Caribbean;Upper middle income
+2011;3,7;Venezuela, RB;Latin America & Caribbean;Upper middle income
+2012;4,7;Venezuela, RB;Latin America & Caribbean;Upper middle income
+2013;6,5;Venezuela, RB;Latin America & Caribbean;Upper middle income
+2014;9,1;Venezuela, RB;Latin America & Caribbean;Upper middle income
+2015;13;Venezuela, RB;Latin America & Caribbean;Upper middle income
+2000;24,3;Vietnam;East Asia & Pacific;Lower middle income
+2001;22,5;Vietnam;East Asia & Pacific;Lower middle income
+2002;20,7;Vietnam;East Asia & Pacific;Lower middle income
+2003;19,3;Vietnam;East Asia & Pacific;Lower middle income
+2004;18,5;Vietnam;East Asia & Pacific;Lower middle income
+2005;18,2;Vietnam;East Asia & Pacific;Lower middle income
+2006;17,6;Vietnam;East Asia & Pacific;Lower middle income
+2007;16,7;Vietnam;East Asia & Pacific;Lower middle income
+2008;15,5;Vietnam;East Asia & Pacific;Lower middle income
+2009;14,5;Vietnam;East Asia & Pacific;Lower middle income
+2010;13,6;Vietnam;East Asia & Pacific;Lower middle income
+2011;13;Vietnam;East Asia & Pacific;Lower middle income
+2012;12,4;Vietnam;East Asia & Pacific;Lower middle income
+2013;11,9;Vietnam;East Asia & Pacific;Lower middle income
+2014;11,2;Vietnam;East Asia & Pacific;Lower middle income
+2015;10,7;Vietnam;East Asia & Pacific;Lower middle income
+2000;29,9;Yemen, Rep.;Middle East & North Africa;Low income
+2001;30,2;Yemen, Rep.;Middle East & North Africa;Low income
+2002;30,7;Yemen, Rep.;Middle East & North Africa;Low income
+2003;31,1;Yemen, Rep.;Middle East & North Africa;Low income
+2004;30,9;Yemen, Rep.;Middle East & North Africa;Low income
+2005;30,1;Yemen, Rep.;Middle East & North Africa;Low income
+2006;28,9;Yemen, Rep.;Middle East & North Africa;Low income
+2007;27,7;Yemen, Rep.;Middle East & North Africa;Low income
+2008;27,1;Yemen, Rep.;Middle East & North Africa;Low income
+2009;26,3;Yemen, Rep.;Middle East & North Africa;Low income
+2010;25,7;Yemen, Rep.;Middle East & North Africa;Low income
+2011;25;Yemen, Rep.;Middle East & North Africa;Low income
+2012;24,6;Yemen, Rep.;Middle East & North Africa;Low income
+2013;24,6;Yemen, Rep.;Middle East & North Africa;Low income
+2014;25,2;Yemen, Rep.;Middle East & North Africa;Low income
+2015;28,8;Yemen, Rep.;Middle East & North Africa;Low income
+2000;47,6;Zambia;Sub-Saharan Africa;Lower middle income
+2001;49,3;Zambia;Sub-Saharan Africa;Lower middle income
+2002;50,2;Zambia;Sub-Saharan Africa;Lower middle income
+2003;50,1;Zambia;Sub-Saharan Africa;Lower middle income
+2004;50,4;Zambia;Sub-Saharan Africa;Lower middle income
+2005;51,3;Zambia;Sub-Saharan Africa;Lower middle income
+2006;52,8;Zambia;Sub-Saharan Africa;Lower middle income
+2007;53,6;Zambia;Sub-Saharan Africa;Lower middle income
+2008;53;Zambia;Sub-Saharan Africa;Lower middle income
+2009;51,3;Zambia;Sub-Saharan Africa;Lower middle income
+2010;49,7;Zambia;Sub-Saharan Africa;Lower middle income
+2011;48,7;Zambia;Sub-Saharan Africa;Lower middle income
+2012;48,1;Zambia;Sub-Saharan Africa;Lower middle income
+2013;47,4;Zambia;Sub-Saharan Africa;Lower middle income
+2014;46,6;Zambia;Sub-Saharan Africa;Lower middle income
+2015;45,9;Zambia;Sub-Saharan Africa;Lower middle income
+2000;43,3;Zimbabwe;Sub-Saharan Africa;Low income
+2001;42,8;Zimbabwe;Sub-Saharan Africa;Low income
+2002;42,4;Zimbabwe;Sub-Saharan Africa;Low income
+2003;42,1;Zimbabwe;Sub-Saharan Africa;Low income
+2004;41,2;Zimbabwe;Sub-Saharan Africa;Low income
+2005;40;Zimbabwe;Sub-Saharan Africa;Low income
+2006;38,3;Zimbabwe;Sub-Saharan Africa;Low income
+2007;37,2;Zimbabwe;Sub-Saharan Africa;Low income
+2008;36;Zimbabwe;Sub-Saharan Africa;Low income
+2009;34,7;Zimbabwe;Sub-Saharan Africa;Low income
+2010;33,3;Zimbabwe;Sub-Saharan Africa;Low income
+2011;32,7;Zimbabwe;Sub-Saharan Africa;Low income
+2012;34,1;Zimbabwe;Sub-Saharan Africa;Low income
+2013;37,3;Zimbabwe;Sub-Saharan Africa;Low income
+2014;41,3;Zimbabwe;Sub-Saharan Africa;Low income
+2015;44,7;Zimbabwe;Sub-Saharan Africa;Low income
